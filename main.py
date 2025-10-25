@@ -1,9 +1,19 @@
 import requests
-import json
-import random
+import csv
+import os
+
 from fastapi import FastAPI, HTTPException
 from dotenv import load_dotenv
-import os
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import xgboost as xgb
+col_pal = sns.color_palette()
+plt.style.use("fivethirtyeight")
+
+
 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
@@ -61,6 +71,16 @@ def create_account(customer_id):
     else:
         print(f"Error: {response.status_code}\n {response.json()}")
 
+def get_transactions(customer_id):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/purchase?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        with open("data.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
+            writer.writeheader()
+            writer.writerows(response.json())
+    else:
+        print(f"Error: {response.status_code}\n {response.json()}")
+
 app = FastAPI()
 
 @app.get("/user/{user_id}")
@@ -75,9 +95,10 @@ def get_user_accounts(user_id: str):
     return accounts
 
 
-
+def predition_model():
+    df = pd.read_csv("data.csv")
+    print(df.head())
 
 if __name__ == "__main__":
-    print("Application Started")
-    create_customer()
-
+    print("This app is running")
+    predition_model()

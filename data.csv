@@ -1,0 +1,1001 @@
+_id,type,merchant_id,payer_id,purchase_date,amount,status,medium,description,created_at,merchant_name,category
+bce01a6ae8b8c6227cd4f1de751c017c,merchant,,account_123,2024-01-01,89.35,completed,balance,Amazon Fresh,2025-10-25T18:50:18.14712,Amazon Fresh,grocery_net
+26e9b361f78724f145faedaaad9da0c3,merchant,,account_123,2024-01-01,177.82,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.14712,24 Hour Fitness,health_fitness
+9c7f4171fce7111db34eb60f56d74b9b,merchant,,account_123,2024-01-01,3.89,completed,balance,Nike.com,2025-10-25T18:50:18.14712,Nike.com,shopping_net
+1f58f90aa5eb9c06f066da77aaea5821,merchant,,account_123,2024-01-01,53.32,completed,balance,Peloton,2025-10-25T18:50:18.14712,Peloton,health_fitness
+b380b0a10b77b658ed90c3bdc51278f9,merchant,,account_123,2024-01-01,1.03,completed,balance,Apple Store,2025-10-25T18:50:18.14712,Apple Store,shopping_pos
+bee1f566f76e67dc69b386bbb702067f,merchant,,account_123,2024-01-02,40.87,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+f5c4fe8476b4092d3e9725d063ce1b62,merchant,,account_123,2024-01-02,5.03,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+2052cfc507e2ddebb3743e165fca0137,merchant,,account_123,2024-01-03,36.45,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+bc262b605b3fe2f3910bffd632386e14,merchant,,account_123,2024-01-03,4.42,completed,balance,Shein,2025-10-25T18:50:18.14712,Shein,shopping_net
+22fecef3ca5384e03fe044c2af8424ac,merchant,,account_123,2024-01-03,94.62,completed,balance,LEGO Store,2025-10-25T18:50:18.14712,LEGO Store,kids_pets
+f37c949bbdc8addd1e2e4fb30ab8f8c0,merchant,,account_123,2024-01-05,8.55,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+effd2a3df1567c420686d95fbeb37d13,merchant,,account_123,2024-01-06,90.35,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+04073ba960e77dd2bf225199c14381ed,merchant,,account_123,2024-01-06,54.21,completed,balance,Shell,2025-10-25T18:50:18.14712,Shell,gas_transport
+a78a2552248857e47d7a6218d3905b51,merchant,,account_123,2024-01-06,107.54,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+01debf86f68e7fb4d2e34edde33285b1,merchant,,account_123,2024-01-06,63.4,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+eff550dc0007ccd24aea0b5d9cd0cb2f,merchant,,account_123,2024-01-06,116.0,completed,balance,Target,2025-10-25T18:50:18.14712,Target,grocery_pos
+2cc128ede159ce4ca19b9e9b734b0442,merchant,,account_123,2024-01-06,108.04,completed,balance,Sam's Club,2025-10-25T18:50:18.14712,Sam's Club,grocery_pos
+c695cc639989033f96c916bd9c607596,merchant,,account_123,2024-01-06,4.37,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,home
+77c19a6515fcfa02ff2942e173fd41b7,merchant,,account_123,2024-01-07,55.71,completed,balance,Shell,2025-10-25T18:50:18.14712,Shell,gas_transport
+dde9735fa217ec217ca08738d2c99053,merchant,,account_123,2024-01-07,88.52,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+f8bc3ea859d4978ed54eeddc930c5eaa,merchant,,account_123,2024-01-07,126.74,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+d3fca43288302a53c7956a54075300cf,merchant,,account_123,2024-01-08,34.5,completed,balance,BP,2025-10-25T18:50:18.14712,BP,gas_transport
+98794be8b81b8ddb6418d30da6e6057a,merchant,,account_123,2024-01-08,101.49,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+70eb50dbd7380658317ee1ea985f18cf,merchant,,account_123,2024-01-08,324.23,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+3b1cb3fa39872d66d11091a186fe9fe3,merchant,,account_123,2024-01-08,8.56,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+ee0b86ed2f198ccf8a6e1434104d05e9,merchant,,account_123,2024-01-08,5.32,completed,balance,Ebay,2025-10-25T18:50:18.14712,Ebay,shopping_net
+2c6b021cdba9683c21f33af043920170,merchant,,account_123,2024-01-08,23.37,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.14712,24 Hour Fitness,health_fitness
+7e749480e277ef3b7212c9cfcef3acd6,merchant,,account_123,2024-01-08,179.13,completed,balance,7-Eleven,2025-10-25T18:50:18.14712,7-Eleven,misc_pos
+036dd3127c33a296ef9337c0f2ffc258,merchant,,account_123,2024-01-08,221.08,completed,balance,Spotify,2025-10-25T18:50:18.14712,Spotify,entertainment
+210c2a8ab75418429b3faa02a2763539,merchant,,account_123,2024-01-09,35.31,completed,balance,HBO Max,2025-10-25T18:50:18.14712,HBO Max,entertainment
+8156a77a97392fd16343b73e5d856fab,merchant,,account_123,2024-01-09,6.85,completed,balance,Dollar Tree,2025-10-25T18:50:18.14712,Dollar Tree,misc_pos
+fc35e64b2f777b95fa43410bbe20b688,merchant,,account_123,2024-01-10,108.18,completed,balance,Costco,2025-10-25T18:50:18.14712,Costco,grocery_pos
+d8cfe223a4445ee3e84eb4fcf5f47c42,merchant,,account_123,2024-01-10,6.74,completed,balance,CVS,2025-10-25T18:50:18.14712,CVS,personal_care
+e56979379762ae3c8b6548d44cfd8574,merchant,,account_123,2024-01-11,74.63,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+5f8b1ccb5f7c4c2a00331f655c36b04d,merchant,,account_123,2024-01-11,78.16,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+b612763771121cfda7b0038c5d552c63,merchant,,account_123,2024-01-11,5.55,completed,balance,Etsy,2025-10-25T18:50:18.14712,Etsy,misc_net
+d49213b8a8676ea44dfa77a0a2b99180,merchant,,account_123,2024-01-11,45.75,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+c9784e4d9aa81890dfc2a1eaadfcd1b7,merchant,,account_123,2024-01-11,48.39,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+f1fd3db9baa4d45d1fe51784c72b1eee,merchant,,account_123,2024-01-11,61.92,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+4f9735d342771674051e615cf108075a,merchant,,account_123,2024-01-11,159.63,completed,balance,Disney+,2025-10-25T18:50:18.14712,Disney+,entertainment
+c3c3095fdf92c06bdb846667b8b5e851,merchant,,account_123,2024-01-11,12.93,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+4bbb55c152e08e332764a596205e461b,merchant,,account_123,2024-01-11,62.18,completed,balance,Gymshark,2025-10-25T18:50:18.14712,Gymshark,health_fitness
+b60988e721124495040f0846b78d4bbd,merchant,,account_123,2024-01-12,56.79,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+700b0bcc99b1a5ed1d82547ad4356edf,merchant,,account_123,2024-01-13,8.15,completed,balance,7-Eleven,2025-10-25T18:50:18.14712,7-Eleven,misc_pos
+5e9c94ef5e51044616b70d3010e156f6,merchant,,account_123,2024-01-13,33.7,completed,balance,Planet Fitness,2025-10-25T18:50:18.14712,Planet Fitness,health_fitness
+1c1307927e8455fff4519c1eff63de30,merchant,,account_123,2024-01-13,1.48,completed,balance,Oxxo,2025-10-25T18:50:18.14712,Oxxo,misc_pos
+fe4e9fa549d56f19960ea4695f92827e,merchant,,account_123,2024-01-14,71.54,completed,balance,Whole Foods Online,2025-10-25T18:50:18.14712,Whole Foods Online,grocery_net
+2f8661653331a8281eed5bf245b903f8,merchant,,account_123,2024-01-14,420.65,completed,balance,Gymshark,2025-10-25T18:50:18.14712,Gymshark,health_fitness
+53a97635dc3e56676da258efe92f0a0b,merchant,,account_123,2024-01-14,65.98,completed,balance,Gymshark,2025-10-25T18:50:18.14712,Gymshark,health_fitness
+5d2f281065a57b96c3e7d791c79a1730,merchant,,account_123,2024-01-14,1.37,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,shopping_net
+f507a531b7741403db51fdb6acedfc0f,merchant,,account_123,2024-01-15,53.41,completed,balance,Amazon Fresh,2025-10-25T18:50:18.14712,Amazon Fresh,grocery_net
+a1e142098f2fe76f6cfb53ba32f58f8f,merchant,,account_123,2024-01-15,7.47,completed,balance,Gymshark,2025-10-25T18:50:18.14712,Gymshark,health_fitness
+848aac5382f1d022c1f1ee1bbefdf1ea,merchant,,account_123,2024-01-15,19.84,completed,balance,Build-A-Bear,2025-10-25T18:50:18.14712,Build-A-Bear,kids_pets
+7e14b9960ca37155a9f63b610d9c5909,merchant,,account_123,2024-01-15,195.34,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+c99af5cfc085cdea019bfd23dd97bcb0,merchant,,account_123,2024-01-16,9.19,completed,balance,Apple Store,2025-10-25T18:50:18.14712,Apple Store,shopping_pos
+e0aec8db86475cefbfac810b2897df6a,merchant,,account_123,2024-01-16,10.76,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+9840bb2945cf04ad9a9824a01e34e3a1,merchant,,account_123,2024-01-16,33.91,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+5482f27802b245e18eb7220d95371245,merchant,,account_123,2024-01-17,6.63,completed,balance,7-Eleven,2025-10-25T18:50:18.14712,7-Eleven,misc_pos
+25b63332303c4db6c9d91862f8874196,merchant,,account_123,2024-01-17,2.28,completed,balance,Zara,2025-10-25T18:50:18.14712,Zara,shopping_pos
+b7b8fe440e0abf5e9b8cf1e27cafa385,merchant,,account_123,2024-01-17,170.54,completed,balance,Ulta Beauty,2025-10-25T18:50:18.14712,Ulta Beauty,personal_care
+3d5cb1ba1ea94fb809fb1df48e53b42f,merchant,,account_123,2024-01-19,107.39,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+d05f6b890e07d7cbca828ff0d3eafd54,merchant,,account_123,2024-01-19,68.72,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+eec55970b6f1d8315783905193c26aff,merchant,,account_123,2024-01-19,372.46,completed,balance,Petco,2025-10-25T18:50:18.14712,Petco,kids_pets
+e420d9607ae502389815c63f689eb1ee,merchant,,account_123,2024-01-19,114.72,completed,balance,AMC Theatres,2025-10-25T18:50:18.14712,AMC Theatres,entertainment
+3586553c588e5bf2b7ea1cd148c9cf3a,merchant,,account_123,2024-01-19,37.0,completed,balance,Planet Fitness,2025-10-25T18:50:18.14712,Planet Fitness,health_fitness
+223634609850b6ce9c6ff82a564e83ed,merchant,,account_123,2024-01-20,116.39,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+1e7d825f495abc076a6105b625ee768b,merchant,,account_123,2024-01-20,56.6,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+d9491cba0e4c37361fe6b690d5281bb4,merchant,,account_123,2024-01-20,3.24,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,travel
+de20785545c4b2be935699c03d4995b1,merchant,,account_123,2024-01-20,46.49,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+a4055c8ae37352e8955447fc776ffa99,merchant,,account_123,2024-01-21,1639.42,completed,balance,Ebay,2025-10-25T18:50:18.14712,Ebay,shopping_net
+b0b0ebf8d65dd3f59e77fd38b9390b68,merchant,,account_123,2024-01-21,128.37,completed,balance,LEGO Store,2025-10-25T18:50:18.14712,LEGO Store,kids_pets
+464eb7f5b84c7a0637c1198647d710af,merchant,,account_123,2024-01-21,5.32,completed,balance,7-Eleven,2025-10-25T18:50:18.14712,7-Eleven,misc_pos
+ba289810dbc695fe28f55745abd9e384,merchant,,account_123,2024-01-21,163.45,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+38e5956c99921f87b68e0232fd7830ef,merchant,,account_123,2024-01-21,23.45,completed,balance,AMC Theatres,2025-10-25T18:50:18.14712,AMC Theatres,entertainment
+0c12673c32e68f62484d0beb1a3cf062,merchant,,account_123,2024-01-22,11.15,completed,balance,Instacart,2025-10-25T18:50:18.14712,Instacart,grocery_net
+60b55e91b3ea0e1a719f481f75b5dc51,merchant,,account_123,2024-01-22,61.23,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+d88f2ffe5402a73f9350075d148eb69a,merchant,,account_123,2024-01-22,71.94,completed,balance,Instacart,2025-10-25T18:50:18.14712,Instacart,grocery_net
+57f77d7bbb7d26c8ec09c47a9cf85603,merchant,,account_123,2024-01-22,39.69,completed,balance,Sephora,2025-10-25T18:50:18.14712,Sephora,personal_care
+fe08e69b88c7402386895ae170aead7d,merchant,,account_123,2024-01-22,125.34,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.14712,24 Hour Fitness,health_fitness
+6f23dfc3e1061ef348cfde3ddf7fb96b,merchant,,account_123,2024-01-22,3.79,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+ee0ac193a8fc860834fa4694bb205212,merchant,,account_123,2024-01-22,2.69,completed,balance,Ebay,2025-10-25T18:50:18.14712,Ebay,shopping_net
+0c8b99d21c160de80d24fc34cc902de4,merchant,,account_123,2024-01-23,94.48,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+1229fae67c052332956a8de1ace98a67,merchant,,account_123,2024-01-24,64.08,completed,balance,Amazon Fresh,2025-10-25T18:50:18.14712,Amazon Fresh,grocery_net
+98436cf6bc059e7391d7434273d5eb0f,merchant,,account_123,2024-01-24,5.23,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+9c39967567a8a206a529f05e603f640f,merchant,,account_123,2024-01-25,91.49,completed,balance,Sam's Club,2025-10-25T18:50:18.14712,Sam's Club,grocery_pos
+454a44746dd4ab912366f65b20f41f13,merchant,,account_123,2024-01-25,22.86,completed,balance,Build-A-Bear,2025-10-25T18:50:18.14712,Build-A-Bear,kids_pets
+6b888db4bf4380a4e3a26b1371acb0e3,merchant,,account_123,2024-01-25,74.49,completed,balance,KFC,2025-10-25T18:50:18.14712,KFC,food_dining
+dc9487012c59c3a991eead44b392f2e5,merchant,,account_123,2024-01-27,106.72,completed,balance,Disney+,2025-10-25T18:50:18.14712,Disney+,entertainment
+25dee25c3ec63fc17841d06e98cda13d,merchant,,account_123,2024-01-27,14.0,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+5069c3c60542050510b868ae85022729,merchant,,account_123,2024-01-27,76.53,completed,balance,Peloton,2025-10-25T18:50:18.14712,Peloton,health_fitness
+c987ef73b144077df1ed184d660023a8,merchant,,account_123,2024-01-27,37.03,completed,balance,Sephora,2025-10-25T18:50:18.14712,Sephora,personal_care
+2cf409aeadf184d985bd87b109e54038,merchant,,account_123,2024-01-28,74.23,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+6e3e1443241bfa76b1746a56c2fbf4c0,merchant,,account_123,2024-01-28,4.87,completed,balance,H&M,2025-10-25T18:50:18.14712,H&M,shopping_pos
+8179cf9831fb6589ea0dbd325addaaac,merchant,,account_123,2024-01-28,5.96,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+3858f9d81d9a67dfd9d4a69fcc241938,merchant,,account_123,2024-01-28,3.59,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+94465083fccc76b19e65a1a339a63f7d,merchant,,account_123,2024-01-28,7.13,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,shopping_pos
+e6eb6e470390a3d5933e489582401cd6,merchant,,account_123,2024-01-28,29.51,completed,balance,Petco,2025-10-25T18:50:18.14712,Petco,kids_pets
+b5eef1506bf68d0b60b83b9b9ae4b9c7,merchant,,account_123,2024-01-28,9.88,completed,balance,Subway,2025-10-25T18:50:18.14712,Subway,food_dining
+36a4c22bc087f1ecf9c8c6a574990908,merchant,,account_123,2024-01-29,25.44,completed,balance,LEGO Store,2025-10-25T18:50:18.14712,LEGO Store,kids_pets
+5ff281f265566ca010dd87427b4d081f,merchant,,account_123,2024-01-29,65.08,completed,balance,Spotify,2025-10-25T18:50:18.14712,Spotify,entertainment
+32976ecd9339bda3c97dd1b97e26deb6,merchant,,account_123,2024-01-30,54.37,completed,balance,BP,2025-10-25T18:50:18.14712,BP,gas_transport
+b1e94c2fd8d3892cf62dd52caa9a5789,merchant,,account_123,2024-01-30,9.16,completed,balance,Ebay,2025-10-25T18:50:18.14712,Ebay,shopping_net
+6ba941d082f81677e0d80b27e4084cff,merchant,,account_123,2024-01-31,53.74,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+a3dc0905d97145ecfe9f3123a5a0f8bd,merchant,,account_123,2024-01-31,84.96,completed,balance,Instacart,2025-10-25T18:50:18.14712,Instacart,grocery_net
+56a52ecf9cf58452bb5ba48add4d303f,merchant,,account_123,2024-01-31,99.86,completed,balance,Target,2025-10-25T18:50:18.14712,Target,grocery_pos
+2c698cd6b7d9f9512a0e02de1926c7fa,merchant,,account_123,2024-01-31,42.09,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+0cc4b0759b45da5fc298c64d3a10e4f6,merchant,,account_123,2024-01-31,47.44,completed,balance,Petco,2025-10-25T18:50:18.14712,Petco,kids_pets
+f8c62e59797814f61459dabf6b440c46,merchant,,account_123,2024-02-01,32.62,completed,balance,Ulta Beauty,2025-10-25T18:50:18.14712,Ulta Beauty,personal_care
+152170da2da5e2aa7ad80157f5d55030,merchant,,account_123,2024-02-01,110.42,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+88f87e00cb6f3e8d9e84a092e7798938,merchant,,account_123,2024-02-01,74.48,completed,balance,Petco,2025-10-25T18:50:18.14712,Petco,kids_pets
+4e1b5981cfebf984981bcf4fdd05b7f4,merchant,,account_123,2024-02-02,135.34,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+62ad865b22dc5083a61cd8c195ad729c,merchant,,account_123,2024-02-02,7.22,completed,balance,Subway,2025-10-25T18:50:18.14712,Subway,food_dining
+d0f7279459d3a7ccae231da08f260f0a,merchant,,account_123,2024-02-03,17.11,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+9d0f2d0c4528039d886ac10788f2fe05,merchant,,account_123,2024-02-03,2.25,completed,balance,Gymshark,2025-10-25T18:50:18.14712,Gymshark,health_fitness
+ff1b537545b150fab3950916d9f21eb0,merchant,,account_123,2024-02-04,48.6,completed,balance,BP,2025-10-25T18:50:18.14712,BP,gas_transport
+b4f86cce9d5a86c59884676694161fd6,merchant,,account_123,2024-02-04,48.36,completed,balance,Oxxo,2025-10-25T18:50:18.14712,Oxxo,misc_pos
+5788c4c4fd2794273f2922d11ac9b3bd,merchant,,account_123,2024-02-04,1.62,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+5fa88abfc74c654b328b653fd041846a,merchant,,account_123,2024-02-04,8.19,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,misc_pos
+27ab9ea3719e121c7a308ee0146d6f46,merchant,,account_123,2024-02-05,68.22,completed,balance,Costco,2025-10-25T18:50:18.14712,Costco,grocery_pos
+6ebe8f1c7bedc1008a0c07480dc71875,merchant,,account_123,2024-02-05,80.42,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+e6cd14170007b1c8a9ac9347a9a99705,merchant,,account_123,2024-02-05,38.59,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+01e43811548c56dc76fe743aa363cd50,merchant,,account_123,2024-02-05,117.27,completed,balance,Oxxo,2025-10-25T18:50:18.14712,Oxxo,misc_pos
+7d92acbb2efc682e664f3ca210a8b545,merchant,,account_123,2024-02-05,4.27,completed,balance,LEGO Store,2025-10-25T18:50:18.14712,LEGO Store,kids_pets
+e9d4d3d0f88e3207f06b69396ea9f854,merchant,,account_123,2024-02-05,10.02,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+88d0afc947c33958ddba2c070e991906,merchant,,account_123,2024-02-05,6.02,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,shopping_pos
+3f5b67b5a07315cf5df98becffd40e55,merchant,,account_123,2024-02-05,64.94,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,home
+6773ecb5dc2b48becb963af7820cc757,merchant,,account_123,2024-02-06,103.89,completed,balance,Costco,2025-10-25T18:50:18.14712,Costco,grocery_pos
+f3477eea25079226b855dcc309a17d3d,merchant,,account_123,2024-02-06,10.41,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,home
+43cdb1b6833a74bf3a71044194d6ef01,merchant,,account_123,2024-02-07,73.73,completed,balance,BP,2025-10-25T18:50:18.14712,BP,gas_transport
+fcc9c5c24921b337357c517a8bcf68fb,merchant,,account_123,2024-02-07,9.36,completed,balance,Apple Store,2025-10-25T18:50:18.14712,Apple Store,shopping_pos
+ef01f60b902bddbf4ac1f15157babe88,merchant,,account_123,2024-02-07,28.04,completed,balance,CVS,2025-10-25T18:50:18.14712,CVS,personal_care
+036c0832df60cd321e2e19abc44b37a7,merchant,,account_123,2024-02-07,47.01,completed,balance,Peloton,2025-10-25T18:50:18.14712,Peloton,health_fitness
+43785e21fe314e25022c9bbea75b6840,merchant,,account_123,2024-02-08,8.8,completed,balance,Apple Store,2025-10-25T18:50:18.14712,Apple Store,shopping_pos
+cc4a2a5b30ca0b06b12a3ba0be391090,merchant,,account_123,2024-02-08,47.8,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+368100e948df391490cdec40a5fa5cea,merchant,,account_123,2024-02-09,67.57,completed,balance,Chevron,2025-10-25T18:50:18.14712,Chevron,gas_transport
+667081ff21776ad399623b07b2b0f9a3,merchant,,account_123,2024-02-09,6.15,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+5d872ca5c00939107a6b5c4001d79351,merchant,,account_123,2024-02-09,13.72,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,home
+e6100133ede5e6adb439008b226e089a,merchant,,account_123,2024-02-09,10.88,completed,balance,Build-A-Bear,2025-10-25T18:50:18.14712,Build-A-Bear,kids_pets
+65cb3829f863bf27f21025c7b5cb4136,merchant,,account_123,2024-02-10,58.99,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+075d57f84bd42d6fc46bd4094832602f,merchant,,account_123,2024-02-10,29.67,completed,balance,Build-A-Bear,2025-10-25T18:50:18.14712,Build-A-Bear,kids_pets
+1d1e2554d7f4b4ed260f90e43672a33b,merchant,,account_123,2024-02-10,145.21,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+378f454f9e838d294f0b73ed0517b1ea,merchant,,account_123,2024-02-10,7.39,completed,balance,Starbucks,2025-10-25T18:50:18.14712,Starbucks,food_dining
+a38e8d4b96ff653ea0150634abc7b509,merchant,,account_123,2024-02-10,1.07,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+e39642bf0184759a3b79e1c33d55121b,merchant,,account_123,2024-02-11,75.28,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+4fc865bf59fc8d7cebf085e5d3c38948,merchant,,account_123,2024-02-11,36.55,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+c525b23a6b5bb2ff109573f9020b5f0a,merchant,,account_123,2024-02-11,90.38,completed,balance,Sam's Club,2025-10-25T18:50:18.14712,Sam's Club,grocery_pos
+94ed02c4222208517bdb49134137a105,merchant,,account_123,2024-02-11,208.57,completed,balance,Ulta Beauty,2025-10-25T18:50:18.14712,Ulta Beauty,personal_care
+4c95d8981611c9fbff285320122eab39,merchant,,account_123,2024-02-11,1.59,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+da64d641c9a17c83bd7c543be2906a2e,merchant,,account_123,2024-02-12,7.84,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+fa1a52bb312eac6bcfb46b53f32349af,merchant,,account_123,2024-02-12,26.35,completed,balance,Wayfair,2025-10-25T18:50:18.14712,Wayfair,home
+79b71fa73f41c31805949257c4e3f0c4,merchant,,account_123,2024-02-12,1.59,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+219b87b6bbd13b883f7b5ebc71ddfa1f,merchant,,account_123,2024-02-13,66.59,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+9d6ad4a8ba73cfcb6433b9071077635f,merchant,,account_123,2024-02-13,36.26,completed,balance,Whole Foods Online,2025-10-25T18:50:18.14712,Whole Foods Online,grocery_net
+6a95574b7e390990426e61cc56725b99,merchant,,account_123,2024-02-13,121.9,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+0199c506928b8f72b69a65e98c2ddd3d,merchant,,account_123,2024-02-13,21.14,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+c991c73a11e3179e36470a8ac6fa1233,merchant,,account_123,2024-02-14,89.04,completed,balance,Costco,2025-10-25T18:50:18.14712,Costco,grocery_pos
+8c48bcc8d8ee7842cbceaa94215c90e0,merchant,,account_123,2024-02-14,166.27,completed,balance,McDonald's,2025-10-25T18:50:18.14712,McDonald's,food_dining
+46967b635820968e180e9b6e613689ed,merchant,,account_123,2024-02-14,4.86,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+8e253eda845bd9fd8f1b24f6eb926940,merchant,,account_123,2024-02-15,64.46,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+1961eb5696c9a42b5f8513a7b20ad5ee,merchant,,account_123,2024-02-15,97.71,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+f232f9fb218ccd0f5e3fe343f5dc180d,merchant,,account_123,2024-02-15,2.84,completed,balance,Dollar Tree,2025-10-25T18:50:18.14712,Dollar Tree,misc_pos
+2923b4f673b5ea34cd7baf08efdbe19b,merchant,,account_123,2024-02-15,67.48,completed,balance,Peloton,2025-10-25T18:50:18.14712,Peloton,health_fitness
+26d27ab1a0060095ce9ca96a42462a3a,merchant,,account_123,2024-02-16,66.73,completed,balance,BP,2025-10-25T18:50:18.14712,BP,gas_transport
+30ac1e2161648dd93d43d75b48f23350,merchant,,account_123,2024-02-16,45.07,completed,balance,Disney+,2025-10-25T18:50:18.14712,Disney+,entertainment
+dc56f153a1a922fd216512a674fb9693,merchant,,account_123,2024-02-17,85.69,completed,balance,CVS,2025-10-25T18:50:18.14712,CVS,personal_care
+367260963a76c9baf48407c5b9b3bc35,merchant,,account_123,2024-02-17,36.16,completed,balance,Build-A-Bear,2025-10-25T18:50:18.14712,Build-A-Bear,kids_pets
+86352390df0f7e1b0048c16a8706bfe3,merchant,,account_123,2024-02-18,8.64,completed,balance,Amazon,2025-10-25T18:50:18.14712,Amazon,misc_net
+626278d4fa10b04a2ec37a07edc3050c,merchant,,account_123,2024-02-18,46.95,completed,balance,Whole Foods Online,2025-10-25T18:50:18.14712,Whole Foods Online,grocery_net
+4b30131b5f230ede7bc40cb8da140095,merchant,,account_123,2024-02-18,70.71,completed,balance,Starbucks,2025-10-25T18:50:18.14712,Starbucks,food_dining
+3416d71e1cda9430dcb33b894c6612a5,merchant,,account_123,2024-02-18,1.92,completed,balance,Apple Store,2025-10-25T18:50:18.14712,Apple Store,shopping_pos
+9b7bd38718e8022d8b8a10a4411c563a,merchant,,account_123,2024-02-18,4.9,completed,balance,Nike.com,2025-10-25T18:50:18.14712,Nike.com,shopping_net
+03823ea95e30997faa76f26acc243549,merchant,,account_123,2024-02-19,58.11,completed,balance,ExxonMobil,2025-10-25T18:50:18.14712,ExxonMobil,gas_transport
+7ef0e8df857a2e22d2673be1dfab33dc,merchant,,account_123,2024-02-19,27.12,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+ac887f2e5f701ddaf2e23b8fadcc60f9,merchant,,account_123,2024-02-19,71.51,completed,balance,Ulta Beauty,2025-10-25T18:50:18.14712,Ulta Beauty,personal_care
+72d2588d67cab7c76c4cf14bce70c424,merchant,,account_123,2024-02-19,9.89,completed,balance,Shein,2025-10-25T18:50:18.14712,Shein,shopping_net
+0ade31ef5ccb09d56e8622fa979a0deb,merchant,,account_123,2024-02-19,6.97,completed,balance,Zara,2025-10-25T18:50:18.14712,Zara,shopping_pos
+cf3bbefbaf4b579781f1b1efedea9171,merchant,,account_123,2024-02-19,101.8,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+a3069bcc0d885652185a73fb98231edc,merchant,,account_123,2024-02-20,9.82,completed,balance,eBay,2025-10-25T18:50:18.14712,eBay,misc_net
+766ebbdfbe7b52e3eae498749ce92635,merchant,,account_123,2024-02-20,7.2,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+f7bef0310b9e3439dea73ca4a7ec23ef,merchant,,account_123,2024-02-20,68.96,completed,balance,PetSmart,2025-10-25T18:50:18.14712,PetSmart,kids_pets
+4a5f08518b09ea576dbaffe61efe471f,merchant,,account_123,2024-02-20,9.35,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+20aa46d6515d34b3139263eec9ec7913,merchant,,account_123,2024-02-21,110.78,completed,balance,Target,2025-10-25T18:50:18.14712,Target,grocery_pos
+10df861350f7e4afa5e91afdb37699e3,merchant,,account_123,2024-02-21,92.92,completed,balance,Costco,2025-10-25T18:50:18.14712,Costco,grocery_pos
+2cfe4c9a06df615e721d05060da01ed0,merchant,,account_123,2024-02-21,26.03,completed,balance,Temu,2025-10-25T18:50:18.14712,Temu,shopping_net
+6a6a668fb37a62c18374ff85cb61bb53,merchant,,account_123,2024-02-22,32.53,completed,balance,Shell,2025-10-25T18:50:18.14712,Shell,gas_transport
+3af3a5667c492d4cc65bdcb52d070c2b,merchant,,account_123,2024-02-22,110.03,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+d34c4d2a4821ab3a7256335290e13742,merchant,,account_123,2024-02-22,27.36,completed,balance,Nike.com,2025-10-25T18:50:18.14712,Nike.com,shopping_net
+dd0961151bc1364e1f84f0f477e80c90,merchant,,account_123,2024-02-23,115.11,completed,balance,HEB,2025-10-25T18:50:18.14712,HEB,grocery_pos
+07af39b151eb6dda7aff764f2f043c24,merchant,,account_123,2024-02-23,80.89,completed,balance,Circle K,2025-10-25T18:50:18.14712,Circle K,gas_transport
+9f25149672185b7ec83213998dc420cc,merchant,,account_123,2024-02-23,9.77,completed,balance,Sephora,2025-10-25T18:50:18.14712,Sephora,personal_care
+4f1ad7d44231f35c4570875e9713ad7d,merchant,,account_123,2024-02-23,3.22,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+b5eb4e88d0a2967d7f7a70ebd7fb84b6,merchant,,account_123,2024-02-23,5.81,completed,balance,Walgreens,2025-10-25T18:50:18.14712,Walgreens,personal_care
+b28eb88a3fa3321247ee989f4580ed03,merchant,,account_123,2024-02-24,91.5,completed,balance,Walmart,2025-10-25T18:50:18.14712,Walmart,grocery_pos
+d04f7a357944eb895fa646d67fd939ce,merchant,,account_123,2024-02-24,17.86,completed,balance,HBO Max,2025-10-25T18:50:18.14712,HBO Max,entertainment
+83c59e7010b3995e66fb9bd5bc0f4265,merchant,,account_123,2024-02-24,3.61,completed,balance,Best Buy,2025-10-25T18:50:18.14712,Best Buy,shopping_pos
+1e858fcfc0fa5712cc483ea5bbd3daa1,merchant,,account_123,2024-02-24,64.62,completed,balance,Peloton,2025-10-25T18:50:18.14712,Peloton,health_fitness
+c78ab6d4413fd7e9b6102c20660eff2a,merchant,,account_123,2024-02-24,3413.05,completed,balance,H&M,2025-10-25T18:50:18.14712,H&M,shopping_pos
+b8ace9c5d3ab2e92d0fa2c51f054aff1,merchant,,account_123,2024-02-25,55.57,completed,balance,Instacart,2025-10-25T18:50:18.14712,Instacart,grocery_net
+d5a416dc90eabf5d2b08594b6d7269c5,merchant,,account_123,2024-02-25,69.33,completed,balance,IKEA,2025-10-25T18:50:18.14712,IKEA,home
+d59dea608dfe063558bd5e87719e2875,merchant,,account_123,2024-02-25,168.59,completed,balance,Lowe’s,2025-10-25T18:50:18.14712,Lowe’s,home
+d26719256dcffacabe37ff0cb62dbf8a,merchant,,account_123,2024-02-26,64.98,completed,balance,BP,2025-10-25T18:50:18.624901,BP,gas_transport
+3013587d07999bc14336f60c2e7b6369,merchant,,account_123,2024-02-26,87.13,completed,balance,Circle K,2025-10-25T18:50:18.624901,Circle K,gas_transport
+480f2bf7a24a211323797c762be98c4e,merchant,,account_123,2024-02-26,9.97,completed,balance,Temu,2025-10-25T18:50:18.624901,Temu,shopping_net
+fa50b0a01e1a6ea1fa9ea38b608b0b94,merchant,,account_123,2024-02-26,69.79,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+06c10931f1a9aef4bc3d3786a8c6e143,merchant,,account_123,2024-02-26,27.38,completed,balance,Best Buy,2025-10-25T18:50:18.624901,Best Buy,shopping_pos
+73cd8c05086d97f516b5ee268b24ccda,merchant,,account_123,2024-02-26,50.66,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+402446a43cef57deb9fc58ff75614569,merchant,,account_123,2024-02-26,2.68,completed,balance,Disney+,2025-10-25T18:50:18.624901,Disney+,entertainment
+c5a21da21c5028b9ddeacd195d6fa74e,merchant,,account_123,2024-02-26,6.41,completed,balance,Temu,2025-10-25T18:50:18.624901,Temu,shopping_net
+b686a32d4eb7122a26e1b4bc8ee7b2d8,merchant,,account_123,2024-02-26,46.0,completed,balance,Subway,2025-10-25T18:50:18.624901,Subway,food_dining
+5e18249338b0592cc1a28bcca3fe6760,merchant,,account_123,2024-02-27,14.68,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,home
+e2d6399e88d754d280c69389d3a4aafe,merchant,,account_123,2024-02-27,5.74,completed,balance,Shein,2025-10-25T18:50:18.624901,Shein,shopping_net
+5a78e72ec34f5e5847bbb0c4f5e462fb,merchant,,account_123,2024-02-27,4.17,completed,balance,Ebay,2025-10-25T18:50:18.624901,Ebay,shopping_net
+4804df08c38f4d6c5cb3f3747f66672d,merchant,,account_123,2024-02-27,57.13,completed,balance,Walgreens,2025-10-25T18:50:18.624901,Walgreens,personal_care
+0e084a1110b5df26a3899a8668cf0c7a,merchant,,account_123,2024-02-28,324.54,completed,balance,Etsy,2025-10-25T18:50:18.624901,Etsy,misc_net
+c2724d2b80c9e96568e784ce8e7bba15,merchant,,account_123,2024-02-28,4.89,completed,balance,eBay,2025-10-25T18:50:18.624901,eBay,misc_net
+007b20dcfe26f72a5ba57b08ad955e34,merchant,,account_123,2024-02-28,48.21,completed,balance,BP,2025-10-25T18:50:18.624901,BP,gas_transport
+a9c89a537d547dd94d0f71dae7e7aa86,merchant,,account_123,2024-03-01,110.62,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,grocery_pos
+1983c95997372569fe93eb646ff6a809,merchant,,account_123,2024-03-02,105.89,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+d98315014db082e82d6dc3b0282d2d69,merchant,,account_123,2024-03-02,93.6,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,grocery_pos
+9271963bce2733705fa3b383cee2b3cd,merchant,,account_123,2024-03-02,24.33,completed,balance,Oxxo,2025-10-25T18:50:18.624901,Oxxo,misc_pos
+7087c72a465320c5daeb543a3cf5d946,merchant,,account_123,2024-03-02,47.26,completed,balance,Peloton,2025-10-25T18:50:18.624901,Peloton,health_fitness
+45a039409f62ccf6366b2a8af7affe29,merchant,,account_123,2024-03-02,3.76,completed,balance,KFC,2025-10-25T18:50:18.624901,KFC,food_dining
+4db93699343e288a2c0900bce87cc122,merchant,,account_123,2024-03-02,58.89,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+3a198957fef6212b7294f784b6c0bde8,merchant,,account_123,2024-03-02,9.93,completed,balance,Oxxo,2025-10-25T18:50:18.624901,Oxxo,misc_pos
+f741a56c13285b2b225eaedcfa87382f,merchant,,account_123,2024-03-02,163.55,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+d718076f5df7f5404cfbfd3e90d31ddb,merchant,,account_123,2024-03-03,54.87,completed,balance,eBay,2025-10-25T18:50:18.624901,eBay,misc_net
+939631746a38462e81f7f729ccf0b1be,merchant,,account_123,2024-03-03,44.56,completed,balance,ExxonMobil,2025-10-25T18:50:18.624901,ExxonMobil,gas_transport
+4ea5ec9e7091f3d3e6b5952212ec3a8f,merchant,,account_123,2024-03-03,37.28,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+088b0f72e165336f2eb0fa7f75cc1cc1,merchant,,account_123,2024-03-03,4.03,completed,balance,Shein,2025-10-25T18:50:18.624901,Shein,shopping_net
+5eee217318680e3cefe9a3da14ae0277,merchant,,account_123,2024-03-03,124.79,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+cd8667daa0fe3dcbc3aa9146900b8e7d,merchant,,account_123,2024-03-03,8.49,completed,balance,Netflix,2025-10-25T18:50:18.624901,Netflix,entertainment
+ddb0aa0b23b10e9f7b04cbda7fff7137,merchant,,account_123,2024-03-03,25.39,completed,balance,KFC,2025-10-25T18:50:18.624901,KFC,food_dining
+c7187ce9911c02b2dcdc8b3eb98dc543,merchant,,account_123,2024-03-03,5.65,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+27b491ac1cd880149b80af2f6cf57e29,merchant,,account_123,2024-03-03,29.73,completed,balance,Disney+,2025-10-25T18:50:18.624901,Disney+,entertainment
+d8dcdace309c73e97cf71d93116b3a4d,merchant,,account_123,2024-03-04,90.06,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+b7043d1080e9116485e2973cc5b91e88,merchant,,account_123,2024-03-04,35.91,completed,balance,Instacart,2025-10-25T18:50:18.624901,Instacart,grocery_net
+e4d75eb5e3fa73af8392315b652db22e,merchant,,account_123,2024-03-04,82.56,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+834dd13c49e53076a8f5d4fb7d9ddbf5,merchant,,account_123,2024-03-04,65.32,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+6b1056ac733660ad48738bbf92b4462d,merchant,,account_123,2024-03-04,61.96,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+5c60133896d5c83536ff2dacb14172a6,merchant,,account_123,2024-03-04,25.58,completed,balance,Peloton,2025-10-25T18:50:18.624901,Peloton,health_fitness
+e95a659d47b4e973d92ec4bf1bc2b7ce,merchant,,account_123,2024-03-04,38.5,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+2ea20876428201cbaf2f0534400cc87e,merchant,,account_123,2024-03-04,139.12,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+65b56710a192db0cdd19fb5ae860aa2d,merchant,,account_123,2024-03-04,5.14,completed,balance,Target,2025-10-25T18:50:18.624901,Target,travel
+d56a7f1b24d60f1b507b89a4100fbf98,merchant,,account_123,2024-03-04,4.8,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+acbabd4f861d37780c3743fe9ef490bd,merchant,,account_123,2024-03-04,3.84,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+67f9489dbe3b30f555f5a257d4aaaccc,merchant,,account_123,2024-03-04,63.3,completed,balance,Spotify,2025-10-25T18:50:18.624901,Spotify,entertainment
+5898dfa5bd09b7894f0614ed8bcc7477,merchant,,account_123,2024-03-05,1.57,completed,balance,Amazon,2025-10-25T18:50:18.624901,Amazon,travel
+dd5de48bfb36eabe4ba3e690048d2e4f,merchant,,account_123,2024-03-05,197.84,completed,balance,LEGO Store,2025-10-25T18:50:18.624901,LEGO Store,kids_pets
+db9b1a6ff143b644e934b8f57fa1a99e,merchant,,account_123,2024-03-05,2.45,completed,balance,Petco,2025-10-25T18:50:18.624901,Petco,kids_pets
+1227eaf74c0254a59933f815b1f84865,merchant,,account_123,2024-03-05,9.86,completed,balance,Nike.com,2025-10-25T18:50:18.624901,Nike.com,shopping_net
+f0bb7b140920e7c370a738412a64d12c,merchant,,account_123,2024-03-06,4.41,completed,balance,Target,2025-10-25T18:50:18.624901,Target,travel
+2cdc6d9be5775efa64e9d19da273e5ff,merchant,,account_123,2024-03-06,33.0,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+8b1129d81fff6650c1414551ce5f2e52,merchant,,account_123,2024-03-06,12.14,completed,balance,7-Eleven,2025-10-25T18:50:18.624901,7-Eleven,misc_pos
+cb670776512e9a56ff6e1ec241c7a1d5,merchant,,account_123,2024-03-06,64.73,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+4bf574c5ff2cabd6038c9ce12e4423da,merchant,,account_123,2024-03-06,2.45,completed,balance,Subway,2025-10-25T18:50:18.624901,Subway,food_dining
+25d3874badfd9c313833dcdaef909692,merchant,,account_123,2024-03-06,103.07,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+bdb421477803925622cb5b7b7da7c10f,merchant,,account_123,2024-03-06,6.89,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,shopping_pos
+40a218571d993990c022af73e6e8c199,merchant,,account_123,2024-03-06,28.01,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,home
+6fe7e237078a2cc701d1b82ad1544a7b,merchant,,account_123,2024-03-06,12.72,completed,balance,Ulta Beauty,2025-10-25T18:50:18.624901,Ulta Beauty,personal_care
+6e3fac1dd3aade04c8daa7387443cd02,merchant,,account_123,2024-03-06,16.9,completed,balance,Etsy,2025-10-25T18:50:18.624901,Etsy,misc_net
+82fcbaba424306d23feaf226478832f0,merchant,,account_123,2024-03-06,13.0,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,home
+dd93a1682048be71d22f0776c5087ae4,merchant,,account_123,2024-03-07,54.86,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+50b7df35ace6382c51c6d5673171bf88,merchant,,account_123,2024-03-07,171.49,completed,balance,eBay,2025-10-25T18:50:18.624901,eBay,misc_net
+54db9982877084183e2d685a69ec55ac,merchant,,account_123,2024-03-07,77.33,completed,balance,Sam's Club,2025-10-25T18:50:18.624901,Sam's Club,grocery_pos
+e0e02579df1bd40eebb22d7df9ac7975,merchant,,account_123,2024-03-07,42.73,completed,balance,Netflix,2025-10-25T18:50:18.624901,Netflix,entertainment
+a62187a2d048130f2a144456cd412ffe,merchant,,account_123,2024-03-07,6.51,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+f6eccc41c9f13cbd93bdf0a0aa545375,merchant,,account_123,2024-03-07,7.66,completed,balance,Walgreens,2025-10-25T18:50:18.624901,Walgreens,personal_care
+f596219a9e18278d9e4e5b11bb574650,merchant,,account_123,2024-03-07,27.61,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.624901,24 Hour Fitness,health_fitness
+b26eaed44419216664cf264073933945,merchant,,account_123,2024-03-07,1.33,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+d241fb8ce73fe40dd2e45be1435b1d50,merchant,,account_123,2024-03-08,71.41,completed,balance,Circle K,2025-10-25T18:50:18.624901,Circle K,gas_transport
+079b3f11634eb57cabdcc4faa51bd398,merchant,,account_123,2024-03-08,63.45,completed,balance,Circle K,2025-10-25T18:50:18.624901,Circle K,gas_transport
+615fee1c18020d3269f382ee3fb5508b,merchant,,account_123,2024-03-08,24.08,completed,balance,Dollar Tree,2025-10-25T18:50:18.624901,Dollar Tree,misc_pos
+b17d62b0da97e6f6c683959ec290fdf4,merchant,,account_123,2024-03-09,96.85,completed,balance,Target,2025-10-25T18:50:18.624901,Target,grocery_pos
+4ee740f3cc89486c649ce4aeac55ba22,merchant,,account_123,2024-03-09,153.83,completed,balance,Costco,2025-10-25T18:50:18.624901,Costco,grocery_pos
+8acd04d0be05e380fd0fc074109d38c1,merchant,,account_123,2024-03-09,2.97,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,shopping_pos
+f6e135dd9e30130c1e8bd658704dae69,merchant,,account_123,2024-03-09,3.34,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+b1884b12227ff620b6ba0be72e14c02a,merchant,,account_123,2024-03-09,2.06,completed,balance,Dollar Tree,2025-10-25T18:50:18.624901,Dollar Tree,misc_pos
+ea3f3008917b5af6895ed81f66f0d1eb,merchant,,account_123,2024-03-09,5.15,completed,balance,Best Buy,2025-10-25T18:50:18.624901,Best Buy,shopping_pos
+d30f5aa4ec08095abc0e2523db99572f,merchant,,account_123,2024-03-09,31.11,completed,balance,Ulta Beauty,2025-10-25T18:50:18.624901,Ulta Beauty,personal_care
+4b0da2b66cbd74db2b3ae2dad3c50740,merchant,,account_123,2024-03-09,69.22,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+2aba6eb4b69895a330a0e3a294591055,merchant,,account_123,2024-03-09,41.67,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+2da8ae9ad7e3edb7a07ade15bb39913a,merchant,,account_123,2024-03-10,144.43,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+a8b7354215a4534466c0787735401810,merchant,,account_123,2024-03-10,73.37,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+11ed427516c362019af56017f9119ea0,merchant,,account_123,2024-03-10,102.22,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,grocery_pos
+d92291fab67b2ed9da28bf196d760da7,merchant,,account_123,2024-03-10,1.78,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+dfeda28946f3cb64e2ae32178591eb47,merchant,,account_123,2024-03-10,19.84,completed,balance,Walgreens,2025-10-25T18:50:18.624901,Walgreens,personal_care
+5d996d0489507ed5949a4bca806e200c,merchant,,account_123,2024-03-10,50.2,completed,balance,KFC,2025-10-25T18:50:18.624901,KFC,food_dining
+469998c4841fb7b36ff5c4ed343b879d,merchant,,account_123,2024-03-10,9.79,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+a60683cc401b88e1da5011fdbbbb7314,merchant,,account_123,2024-03-10,25.01,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+7b1e4fdd89cc6a4e4dca6f351d00d6da,merchant,,account_123,2024-03-10,82.98,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+583a3e1adcba02ced81f1ee4fbdac412,merchant,,account_123,2024-03-11,187.26,completed,balance,Etsy,2025-10-25T18:50:18.624901,Etsy,misc_net
+d050275a82b0ca7d16d932cad9bb6e5b,merchant,,account_123,2024-03-11,3.57,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+5c4402d5d2b2a196ce22fbb584c12425,merchant,,account_123,2024-03-11,2.77,completed,balance,Amazon,2025-10-25T18:50:18.624901,Amazon,shopping_net
+183231307b6165fe091225c526af8321,merchant,,account_123,2024-03-11,164.83,completed,balance,HBO Max,2025-10-25T18:50:18.624901,HBO Max,entertainment
+b14ee176dd0ea293e18f358df7030772,merchant,,account_123,2024-03-11,6.47,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+4997d33789e098d793670bc5ed47c828,merchant,,account_123,2024-03-11,20.1,completed,balance,KFC,2025-10-25T18:50:18.624901,KFC,food_dining
+1ae739f425d9d3ebb81597af8a2fcf80,merchant,,account_123,2024-03-12,46.19,completed,balance,ExxonMobil,2025-10-25T18:50:18.624901,ExxonMobil,gas_transport
+91257647ffc687ec3baae56132e308f9,merchant,,account_123,2024-03-13,28.83,completed,balance,Etsy,2025-10-25T18:50:18.624901,Etsy,misc_net
+8070cf14fe5758ecc55ea6c513126082,merchant,,account_123,2024-03-13,221.8,completed,balance,Amazon,2025-10-25T18:50:18.624901,Amazon,shopping_net
+2859cc78c2859cb1e9ce494020a8ec78,merchant,,account_123,2024-03-13,1.09,completed,balance,McDonald's,2025-10-25T18:50:18.624901,McDonald's,food_dining
+2dccfeb0e2a9164a035ca67c03d30176,merchant,,account_123,2024-03-13,9.93,completed,balance,Subway,2025-10-25T18:50:18.624901,Subway,food_dining
+14f8d2fce627e9ec568fadf3b14a353f,merchant,,account_123,2024-03-14,53.1,completed,balance,Instacart,2025-10-25T18:50:18.624901,Instacart,grocery_net
+e1875a13eb4a463c7f10e5249140979f,merchant,,account_123,2024-03-14,62.74,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,grocery_pos
+8d1878756b3472234a3e0cdf2003fcbc,merchant,,account_123,2024-03-14,51.51,completed,balance,Circle K,2025-10-25T18:50:18.624901,Circle K,gas_transport
+1b8522a058f450d22e583742efb0752e,merchant,,account_123,2024-03-14,22.76,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+8696ec031e4ffe51d6b4edba8744d861,merchant,,account_123,2024-03-14,113.78,completed,balance,CVS,2025-10-25T18:50:18.624901,CVS,personal_care
+c282b96c96bd3692bfbe76f8940074c8,merchant,,account_123,2024-03-14,52.05,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+68b14438e31b2a8c780d5518e65890a7,merchant,,account_123,2024-03-14,27.47,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+77e633021aff563efdb99e277fb41c2e,merchant,,account_123,2024-03-14,2.15,completed,balance,Dollar Tree,2025-10-25T18:50:18.624901,Dollar Tree,misc_pos
+5db3a3c6f79caa4426d88ce95e48324e,merchant,,account_123,2024-03-14,1.19,completed,balance,Dollar Tree,2025-10-25T18:50:18.624901,Dollar Tree,misc_pos
+0ab4d27bc27295d2e99bccf13d22796b,merchant,,account_123,2024-03-15,91.84,completed,balance,Dollar Tree,2025-10-25T18:50:18.624901,Dollar Tree,misc_pos
+f593ac0e3d6b2797c4628386fef2b303,merchant,,account_123,2024-03-15,21.44,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+98c304942ad3b3a8d32f7b6c17646a2f,merchant,,account_123,2024-03-16,63.84,completed,balance,Amazon Fresh,2025-10-25T18:50:18.624901,Amazon Fresh,grocery_net
+7f2bb722b8ecc4b09e040a6de7a32586,merchant,,account_123,2024-03-16,70.31,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+6466ffc6c848a0f246f5e3333e437843,merchant,,account_123,2024-03-16,15.44,completed,balance,Disney+,2025-10-25T18:50:18.624901,Disney+,entertainment
+5f89492acfe425278a450164f7b08dc8,merchant,,account_123,2024-03-16,167.78,completed,balance,Build-A-Bear,2025-10-25T18:50:18.624901,Build-A-Bear,kids_pets
+879688e8cb1f3be3274645d687602bd9,merchant,,account_123,2024-03-16,1.57,completed,balance,Nike.com,2025-10-25T18:50:18.624901,Nike.com,shopping_net
+2cd0ff8ef44e163b4ba104b0104e4599,merchant,,account_123,2024-03-16,9.28,completed,balance,Temu,2025-10-25T18:50:18.624901,Temu,shopping_net
+f253693674018cb3626e23a27b2c952c,merchant,,account_123,2024-03-16,8.9,completed,balance,Nike.com,2025-10-25T18:50:18.624901,Nike.com,shopping_net
+4136569b8d005492d2d4a84dab3395ee,merchant,,account_123,2024-03-16,2.44,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+636b001d40a926e144f3572a96063376,merchant,,account_123,2024-03-16,117.58,completed,balance,Starbucks,2025-10-25T18:50:18.624901,Starbucks,travel
+30b6a22e8695cc54c588b47f67037967,merchant,,account_123,2024-03-16,87.79,completed,balance,Subway,2025-10-25T18:50:18.624901,Subway,food_dining
+3a8b96e0d90927effb7b2015909e8ab8,merchant,,account_123,2024-03-16,26.9,completed,balance,Spotify,2025-10-25T18:50:18.624901,Spotify,entertainment
+0775dac20861b525853f302c741e167a,merchant,,account_123,2024-03-17,63.9,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+6cfdf1be0fb052c3a12a2614d02a1afd,merchant,,account_123,2024-03-17,47.27,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+390bf40ad7c19e3af1115cadd5a309a3,merchant,,account_123,2024-03-17,7.65,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+95f95d10728c6f311983f34d7213af48,merchant,,account_123,2024-03-17,488.71,completed,balance,Best Buy,2025-10-25T18:50:18.624901,Best Buy,shopping_pos
+a7e020f4dc3896b69c61d451d76505ea,merchant,,account_123,2024-03-17,7.87,completed,balance,Target,2025-10-25T18:50:18.624901,Target,travel
+29ad8e8f3d267c1321648f290612ef07,merchant,,account_123,2024-03-18,100.84,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+36c02cc1ff64225b0991a987c2e01778,merchant,,account_123,2024-03-18,101.28,completed,balance,Costco,2025-10-25T18:50:18.624901,Costco,grocery_pos
+98bf0fc06b297f51686a433f7186c8f7,merchant,,account_123,2024-03-18,8.9,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+35bbe84f7fc1e4131c9c249859eff189,merchant,,account_123,2024-03-18,5.02,completed,balance,Shein,2025-10-25T18:50:18.624901,Shein,shopping_net
+2e85f419e4310e9311db18c28df54b42,merchant,,account_123,2024-03-18,36.05,completed,balance,CVS,2025-10-25T18:50:18.624901,CVS,personal_care
+05a39cdd91941b6e3794116a5d728c1d,merchant,,account_123,2024-03-19,27.49,completed,balance,Sephora,2025-10-25T18:50:18.624901,Sephora,personal_care
+ad569c14e04f16d6e32eeb9b8a456b47,merchant,,account_123,2024-03-19,34.26,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+fed8a722862deffec57224a2381438b0,merchant,,account_123,2024-03-20,28.18,completed,balance,Build-A-Bear,2025-10-25T18:50:18.624901,Build-A-Bear,kids_pets
+0fa27b02c157a9c4effa5f2a94eae0c4,merchant,,account_123,2024-03-20,6.46,completed,balance,Ebay,2025-10-25T18:50:18.624901,Ebay,shopping_net
+bc475de505d847ad6a352b26c990f758,merchant,,account_123,2024-03-20,5.28,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+1ff7540f220c4ac9b037bb4002c62030,merchant,,account_123,2024-03-20,14.0,completed,balance,Sephora,2025-10-25T18:50:18.624901,Sephora,personal_care
+2d43c4afab14ad3a0ad55d11a24a1031,merchant,,account_123,2024-03-21,53.32,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+bc7b15b6c5163323708aa43234064a2d,merchant,,account_123,2024-03-21,6.16,completed,balance,LEGO Store,2025-10-25T18:50:18.624901,LEGO Store,kids_pets
+5f11cb3e1a42b6836654a4ec8de57d9e,merchant,,account_123,2024-03-21,76.14,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+2b75c04775f42ecbd6d33b9e97a53a43,merchant,,account_123,2024-03-22,7.29,completed,balance,Amazon,2025-10-25T18:50:18.624901,Amazon,misc_net
+631d17e454f01afd2178c028e8a2ab47,merchant,,account_123,2024-03-22,127.83,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+5c37c366989adccf2bf8875515a71855,merchant,,account_123,2024-03-22,34.39,completed,balance,Disney+,2025-10-25T18:50:18.624901,Disney+,entertainment
+b73cb7b71f87b5cb1fe678e404b969bf,merchant,,account_123,2024-03-22,274.88,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+88707eefe1cd8c324812a9f70765e6a2,merchant,,account_123,2024-03-22,440.39,completed,balance,Temu,2025-10-25T18:50:18.624901,Temu,shopping_net
+fe40dc3f1ad960958a10acf77eab28ae,merchant,,account_123,2024-03-23,98.69,completed,balance,ExxonMobil,2025-10-25T18:50:18.624901,ExxonMobil,gas_transport
+3d3e3547480c0de36dec900f1220b26b,merchant,,account_123,2024-03-23,60.74,completed,balance,Petco,2025-10-25T18:50:18.624901,Petco,kids_pets
+0fc2c17e768725c4c90a2f6fb651d9b9,merchant,,account_123,2024-03-23,52.69,completed,balance,Peloton,2025-10-25T18:50:18.624901,Peloton,health_fitness
+5f4c42225e0b2376258f9ca48349fa20,merchant,,account_123,2024-03-23,9.84,completed,balance,7-Eleven,2025-10-25T18:50:18.624901,7-Eleven,misc_pos
+d38420e6256629000c8b8fb1b0deb2f7,merchant,,account_123,2024-03-23,4.3,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+5831cb87c827707b2218765b4f8d2b5c,merchant,,account_123,2024-03-23,25.99,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+ceaabec1242459276f8772be7a96fa8f,merchant,,account_123,2024-03-23,21.81,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+abc3765dc8690676793bffae721c3318,merchant,,account_123,2024-03-24,48.06,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+92c8a56f1616fc12746f8dc99b861677,merchant,,account_123,2024-03-24,57.42,completed,balance,Shell,2025-10-25T18:50:18.624901,Shell,gas_transport
+a5c64ee247765ca02b50cce9e8b50426,merchant,,account_123,2024-03-24,45.04,completed,balance,Circle K,2025-10-25T18:50:18.624901,Circle K,gas_transport
+22324b6c2b9df6b8ea5cf2d2938d0b56,merchant,,account_123,2024-03-24,96.48,completed,balance,Target,2025-10-25T18:50:18.624901,Target,grocery_pos
+0c47891aa2dd9822cbff35d88e7c6580,merchant,,account_123,2024-03-24,3.57,completed,balance,H&M,2025-10-25T18:50:18.624901,H&M,shopping_pos
+157bf762ec99b565d8f8ea98592dd74e,merchant,,account_123,2024-03-24,8.4,completed,balance,Petco,2025-10-25T18:50:18.624901,Petco,kids_pets
+6a200fe6d8acf8b0d60df5358f3467e9,merchant,,account_123,2024-03-24,5.95,completed,balance,PetSmart,2025-10-25T18:50:18.624901,PetSmart,kids_pets
+c3e20700e504d7e9bcbee3e495c4c7df,merchant,,account_123,2024-03-25,66.79,completed,balance,LEGO Store,2025-10-25T18:50:18.624901,LEGO Store,kids_pets
+24852ba7d991f96c2b40d1a10fc566cc,merchant,,account_123,2024-03-25,14.14,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.624901,24 Hour Fitness,health_fitness
+1836d50b7e4c4a1503cb5b875c779cd5,merchant,,account_123,2024-03-25,38.2,completed,balance,Walgreens,2025-10-25T18:50:18.624901,Walgreens,personal_care
+3215ae1ea935ac7303c059aa49740ea4,merchant,,account_123,2024-03-26,56.38,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+9e16d76a6723c85c4e7b7efe08e9489a,merchant,,account_123,2024-03-26,101.69,completed,balance,BP,2025-10-25T18:50:18.624901,BP,gas_transport
+b7e4bf16a7ecad96c3677856115203ee,merchant,,account_123,2024-03-26,182.41,completed,balance,Walmart,2025-10-25T18:50:18.624901,Walmart,misc_pos
+3f953c1590e867ed53485d94a587294b,merchant,,account_123,2024-03-26,14.6,completed,balance,HBO Max,2025-10-25T18:50:18.624901,HBO Max,entertainment
+e9279ae8183bc688a347b2f0d883a54b,merchant,,account_123,2024-03-26,20.03,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+e47045a6f2f019949fa6ef8b7640ece7,merchant,,account_123,2024-03-26,18.68,completed,balance,Gymshark,2025-10-25T18:50:18.624901,Gymshark,health_fitness
+8375cd1141be0789482265f757106193,merchant,,account_123,2024-03-26,15.95,completed,balance,Starbucks,2025-10-25T18:50:18.624901,Starbucks,food_dining
+6fd2c82b7af0453f1724e8148bb67212,merchant,,account_123,2024-03-26,2.72,completed,balance,LEGO Store,2025-10-25T18:50:18.624901,LEGO Store,kids_pets
+c99b1545c04b35ca2d5704f011f6c8fb,merchant,,account_123,2024-03-26,5.41,completed,balance,Oxxo,2025-10-25T18:50:18.624901,Oxxo,misc_pos
+bb755aafd876da8a651ad7db0a462440,merchant,,account_123,2024-03-26,9.67,completed,balance,Ebay,2025-10-25T18:50:18.624901,Ebay,shopping_net
+f16d23965195e44fc21cbf626f1e28a4,merchant,,account_123,2024-03-26,99.49,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+a8179232f0da0683780f747059905008,merchant,,account_123,2024-03-26,20.47,completed,balance,LEGO Store,2025-10-25T18:50:18.624901,LEGO Store,kids_pets
+31868b820c680dda3cf2efd3348f1ce3,merchant,,account_123,2024-03-27,3.79,completed,balance,Etsy,2025-10-25T18:50:18.624901,Etsy,misc_net
+c9372460b58511fa5315d91d2b211f3c,merchant,,account_123,2024-03-27,55.7,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,home
+c80e6f1259a4265ec5ab517b76e74aae,merchant,,account_123,2024-03-27,112.01,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+b408d94e8cd05b4584445621294a3043,merchant,,account_123,2024-03-27,91.14,completed,balance,Walgreens,2025-10-25T18:50:18.624901,Walgreens,personal_care
+79520de97790f5ce24c06714d773c325,merchant,,account_123,2024-03-28,48.12,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+48f17df8e6d918a216db91bc46231d1f,merchant,,account_123,2024-03-28,14.41,completed,balance,Spotify,2025-10-25T18:50:18.624901,Spotify,entertainment
+f208f5b92e265f33363a716362a873f5,merchant,,account_123,2024-03-28,33.19,completed,balance,Wayfair,2025-10-25T18:50:18.624901,Wayfair,home
+2ec8495906f3ed46a1df79ba92505219,merchant,,account_123,2024-03-28,11.53,completed,balance,Sephora,2025-10-25T18:50:18.624901,Sephora,personal_care
+d239c3c0ad53ffb7f2a32e9323277918,merchant,,account_123,2024-03-29,72.44,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+034271099d79bccd8910444321fc2a78,merchant,,account_123,2024-03-29,42.82,completed,balance,Chevron,2025-10-25T18:50:18.624901,Chevron,gas_transport
+eb55bbb9abf996bfc444d527e312f587,merchant,,account_123,2024-03-29,87.47,completed,balance,Target,2025-10-25T18:50:18.624901,Target,grocery_pos
+7156bc96967380a3cc5f0f63ead25a8f,merchant,,account_123,2024-03-29,8.45,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,shopping_pos
+919c930360b192d5bce8aab6cb406a79,merchant,,account_123,2024-03-29,149.05,completed,balance,IKEA,2025-10-25T18:50:18.624901,IKEA,home
+1603afd1dab43927d473885072dfe0a7,merchant,,account_123,2024-03-29,31.97,completed,balance,Planet Fitness,2025-10-25T18:50:18.624901,Planet Fitness,health_fitness
+422ac780e1d3a1042c31608c12ec892e,merchant,,account_123,2024-03-29,50.57,completed,balance,Lowe’s,2025-10-25T18:50:18.624901,Lowe’s,home
+a6cfb5c2f350bf124a31f9d1d68bee9c,merchant,,account_123,2024-03-30,54.91,completed,balance,ExxonMobil,2025-10-25T18:50:18.624901,ExxonMobil,gas_transport
+b3b11061322fa514977d15f0ba588325,merchant,,account_123,2024-03-30,107.01,completed,balance,HEB,2025-10-25T18:50:18.624901,HEB,grocery_pos
+c9b5963b41a811b7dc7a58531a83e361,merchant,,account_123,2024-03-30,47.28,completed,balance,Spotify,2025-10-25T18:50:18.624901,Spotify,entertainment
+cec1d37c144bfc956f9aa45657e0585d,merchant,,account_123,2024-03-30,73.17,completed,balance,Gymshark,2025-10-25T18:50:18.624901,Gymshark,health_fitness
+fac01dd8a333a03c417d607df05494b3,merchant,,account_123,2024-03-30,2.55,completed,balance,Zara,2025-10-25T18:50:18.624901,Zara,shopping_pos
+af354b65b957924e50b011c7860811c1,merchant,,account_123,2024-03-30,4.52,completed,balance,Sephora,2025-10-25T18:50:18.624901,Sephora,personal_care
+c50ade3d350e634d6414e677f524cd6d,merchant,,account_123,2024-03-30,58.83,completed,balance,Petco,2025-10-25T18:50:18.624901,Petco,kids_pets
+1d7da963c66e257ed17acde22c68d089,merchant,,account_123,2024-03-30,117.61,completed,balance,Netflix,2025-10-25T18:50:18.624901,Netflix,entertainment
+b7df884f8007ddc8527e03bedde2320c,merchant,,account_123,2024-03-30,33.46,completed,balance,Home Depot,2025-10-25T18:50:18.624901,Home Depot,home
+67d68732212a92af581bc46e8b2814b3,merchant,,account_123,2024-03-31,39.18,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+73cb378182ccc37a4dbcb7cbbfe50ef9,merchant,,account_123,2024-03-31,58.85,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+6f46025a72d14b3c536ba59611204913,merchant,,account_123,2024-03-31,97.15,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,grocery_pos
+2a59aa9b387484cd222c96cfab7c24a1,merchant,,account_123,2024-03-31,58.69,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+c7736d5dc56bfae0a48bc00d484bbf64,merchant,,account_123,2024-03-31,35.28,completed,balance,CVS,2025-10-25T18:50:18.973319,CVS,personal_care
+2952e927ebcddfe60f07924eeab958df,merchant,,account_123,2024-03-31,24.74,completed,balance,Peloton,2025-10-25T18:50:18.973319,Peloton,health_fitness
+d91cd072c84953ca8a6094225b447a9b,merchant,,account_123,2024-03-31,23.99,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+a04313b9131e6bc88f60c96f598611d8,merchant,,account_123,2024-03-31,1.67,completed,balance,Temu,2025-10-25T18:50:18.973319,Temu,shopping_net
+6177f6a51b8582280c30ff489d3368db,merchant,,account_123,2024-03-31,1.45,completed,balance,Dollar Tree,2025-10-25T18:50:18.973319,Dollar Tree,misc_pos
+7ec61054a8e76b5804d20abeb1017f91,merchant,,account_123,2024-03-31,36.07,completed,balance,Lowe’s,2025-10-25T18:50:18.973319,Lowe’s,home
+35a8a5be2978d083a68802938e3b1366,merchant,,account_123,2024-03-31,5.89,completed,balance,Amazon,2025-10-25T18:50:18.973319,Amazon,shopping_net
+a86133d373cb1bb0a4fee47033a8223f,merchant,,account_123,2024-03-31,1.62,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+1f36714aa29674ea2f44258e9909ea48,merchant,,account_123,2024-04-01,74.87,completed,balance,Sam's Club,2025-10-25T18:50:18.973319,Sam's Club,grocery_pos
+7f017b106fcaff33e8fee053bc6ce478,merchant,,account_123,2024-04-01,118.13,completed,balance,Target,2025-10-25T18:50:18.973319,Target,grocery_pos
+c3972a766eb658856fd928cfba29d7e4,merchant,,account_123,2024-04-01,9.69,completed,balance,Ebay,2025-10-25T18:50:18.973319,Ebay,shopping_net
+eb70f8e46332f2c986649270d446f253,merchant,,account_123,2024-04-01,201.74,completed,balance,Wayfair,2025-10-25T18:50:18.973319,Wayfair,home
+121d035fb3940149b0cd44b8b2900aaa,merchant,,account_123,2024-04-01,279.51,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+4624884892f083048debe635406dd725,merchant,,account_123,2024-04-01,27.15,completed,balance,HBO Max,2025-10-25T18:50:18.973319,HBO Max,entertainment
+5aadf6c5f399b21f519bf488f283c333,merchant,,account_123,2024-04-01,4.67,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+503ab934313235103f9b6e0223afb9e8,merchant,,account_123,2024-04-01,1.47,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+3a1c0a60f55b5819e3b2b1930d57fe89,merchant,,account_123,2024-04-01,149.84,completed,balance,Petco,2025-10-25T18:50:18.973319,Petco,kids_pets
+ede8726cc1aa49da66c466db822bbdd8,merchant,,account_123,2024-04-02,51.63,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+9ded99b4f17fa2b4df4d5e40812a33a2,merchant,,account_123,2024-04-02,40.57,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+894a5f610042553ae5c2ea29f950dcc2,merchant,,account_123,2024-04-02,5.55,completed,balance,Amazon,2025-10-25T18:50:18.973319,Amazon,shopping_net
+62a20833a85654af4eb27f6a513b8159,merchant,,account_123,2024-04-02,7.82,completed,balance,PetSmart,2025-10-25T18:50:18.973319,PetSmart,kids_pets
+737b33a663538dc9303dee655babe0a0,merchant,,account_123,2024-04-03,58.44,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+52390a46275c225ee0d914dff8797037,merchant,,account_123,2024-04-03,30.58,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,home
+a468fbd6843890d63ee1007880acdcfc,merchant,,account_123,2024-04-03,4.67,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+0041bc0e4aeca31e172896c67f4a3b94,merchant,,account_123,2024-04-04,134.9,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+f90fa9466ff6236d636105d3c519cb98,merchant,,account_123,2024-04-04,66.78,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,grocery_pos
+7249e347c60faf59b949d8adac14e348,merchant,,account_123,2024-04-04,15.19,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+c4f33fe8faef6364029c4c3bb7a4cbd7,merchant,,account_123,2024-04-04,339.0,completed,balance,Dollar Tree,2025-10-25T18:50:18.973319,Dollar Tree,misc_pos
+16606b669f7c7ac3d14d6184f19a996a,merchant,,account_123,2024-04-04,11.3,completed,balance,AMC Theatres,2025-10-25T18:50:18.973319,AMC Theatres,entertainment
+73ccaa5e0db7e882db7192e2757f8fbc,merchant,,account_123,2024-04-04,2.52,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+157021c4d5bd226d02b756192ab2970c,merchant,,account_123,2024-04-04,1.25,completed,balance,Zara,2025-10-25T18:50:18.973319,Zara,shopping_pos
+6ec290c9d2a3f1dc4f80fcbff10cd885,merchant,,account_123,2024-04-05,52.72,completed,balance,AMC Theatres,2025-10-25T18:50:18.973319,AMC Theatres,entertainment
+2bc3ebeb19d3ded38cca023e973d4188,merchant,,account_123,2024-04-05,56.02,completed,balance,Walgreens,2025-10-25T18:50:18.973319,Walgreens,personal_care
+46e4a2d9de72f465271f1f9ac03302e0,merchant,,account_123,2024-04-05,37.53,completed,balance,PetSmart,2025-10-25T18:50:18.973319,PetSmart,kids_pets
+441be1b2e2f01785c83de70d9263d30f,merchant,,account_123,2024-04-05,3.96,completed,balance,Planet Fitness,2025-10-25T18:50:18.973319,Planet Fitness,health_fitness
+46bb06cb2649858e9e8b18d37d8e4ddc,merchant,,account_123,2024-04-05,9.26,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+aee3f627a6dc5ced28289138ee3d3a87,merchant,,account_123,2024-04-06,27.62,completed,balance,Whole Foods Online,2025-10-25T18:50:18.973319,Whole Foods Online,grocery_net
+03a39e17953da4ceca9c10ebf3ba4df4,merchant,,account_123,2024-04-06,1.76,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+7994109853c7810bb46a841f997820ed,merchant,,account_123,2024-04-06,9.86,completed,balance,Zara,2025-10-25T18:50:18.973319,Zara,shopping_pos
+85c9ca040b8b72c6fc6514fa86798889,merchant,,account_123,2024-04-06,8.55,completed,balance,Nike.com,2025-10-25T18:50:18.973319,Nike.com,shopping_net
+b186d9204b7dda6ea67ed8763dda08aa,merchant,,account_123,2024-04-06,3.45,completed,balance,H&M,2025-10-25T18:50:18.973319,H&M,shopping_pos
+0359822ebe2f4791f4be0fd8de99f5f8,merchant,,account_123,2024-04-06,5.27,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+a744e993b3c636f7224149ee9f28b9f0,merchant,,account_123,2024-04-06,35.98,completed,balance,CVS,2025-10-25T18:50:18.973319,CVS,personal_care
+261e7f4baa66d40f9034655e45e610cd,merchant,,account_123,2024-04-07,71.55,completed,balance,Chevron,2025-10-25T18:50:18.973319,Chevron,gas_transport
+3bc06e1c066aa7c3f6dd2a67f01d73a3,merchant,,account_123,2024-04-07,71.17,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,home
+df6e3a4b4b88eff5b66c11f7958aa008,merchant,,account_123,2024-04-07,7.47,completed,balance,Walgreens,2025-10-25T18:50:18.973319,Walgreens,personal_care
+e0de32ddff6b16cde0452670acf1e2e6,merchant,,account_123,2024-04-07,277.97,completed,balance,Oxxo,2025-10-25T18:50:18.973319,Oxxo,misc_pos
+533646b37be6ccf1800bfac4686cb35e,merchant,,account_123,2024-04-07,33.03,completed,balance,Ulta Beauty,2025-10-25T18:50:18.973319,Ulta Beauty,personal_care
+3770482beaf0cf659942389b3b3f419d,merchant,,account_123,2024-04-07,4.75,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+f61f12cb965fe7f8964e33a92fbc2a5a,merchant,,account_123,2024-04-07,2.38,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+b9e5084801e1797f78d92e100ba20389,merchant,,account_123,2024-04-08,77.33,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+06195528902f6e14f9d7a3ecd8b141d3,merchant,,account_123,2024-04-08,46.35,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+d0826313800328c94dcbec0453c7512a,merchant,,account_123,2024-04-08,1.15,completed,balance,Zara,2025-10-25T18:50:18.973319,Zara,shopping_pos
+734aba4071b4ac41fedd2e55541ea14f,merchant,,account_123,2024-04-08,36.78,completed,balance,Build-A-Bear,2025-10-25T18:50:18.973319,Build-A-Bear,kids_pets
+2fce5d8566ab9071d61241cfdaf890b6,merchant,,account_123,2024-04-09,105.56,completed,balance,Target,2025-10-25T18:50:18.973319,Target,grocery_pos
+fd4e98729d111149731ad3c5f59c94e8,merchant,,account_123,2024-04-09,126.35,completed,balance,HEB,2025-10-25T18:50:18.973319,HEB,grocery_pos
+dcde6237d473a345f73a08f868915080,merchant,,account_123,2024-04-09,7.88,completed,balance,H&M,2025-10-25T18:50:18.973319,H&M,shopping_pos
+6a2efb210e734e236638fcaf8e98856c,merchant,,account_123,2024-04-09,63.55,completed,balance,Wayfair,2025-10-25T18:50:18.973319,Wayfair,home
+df734a49edab1e1b35ca54c76f9e7e5a,merchant,,account_123,2024-04-09,16.0,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+eb11083f4ff3d6dc060a40616f5a468a,merchant,,account_123,2024-04-09,3.93,completed,balance,Best Buy,2025-10-25T18:50:18.973319,Best Buy,shopping_pos
+84d02c61cfeb6963ba8deee3321417e9,merchant,,account_123,2024-04-10,105.08,completed,balance,Whole Foods Online,2025-10-25T18:50:18.973319,Whole Foods Online,grocery_net
+b4ad787c1db79cf0c94f7cf4e0f06b3d,merchant,,account_123,2024-04-10,121.11,completed,balance,Planet Fitness,2025-10-25T18:50:18.973319,Planet Fitness,health_fitness
+1b77047bca914dc4d2473f52bd40744e,merchant,,account_123,2024-04-10,70.21,completed,balance,Walgreens,2025-10-25T18:50:18.973319,Walgreens,personal_care
+4aa24dbc47f55da63167a719ce717e86,merchant,,account_123,2024-04-11,112.09,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+2ad52971d54255aa616f64c26a7de99b,merchant,,account_123,2024-04-11,106.4,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,grocery_pos
+4e3981961722db2657d1d96b021b6f2a,merchant,,account_123,2024-04-11,53.15,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+cd6fcc3068c76b2330e9449412e45c42,merchant,,account_123,2024-04-11,3.16,completed,balance,Ebay,2025-10-25T18:50:18.973319,Ebay,shopping_net
+8c76cbc654ed3ec2da0c5eec02adf925,merchant,,account_123,2024-04-11,9.73,completed,balance,Temu,2025-10-25T18:50:18.973319,Temu,shopping_net
+d46c827ddc0f49ca672442220fc19cd7,merchant,,account_123,2024-04-11,14.22,completed,balance,Walgreens,2025-10-25T18:50:18.973319,Walgreens,personal_care
+5f87c129ec232f7a9acef3394661e479,merchant,,account_123,2024-04-12,104.01,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,grocery_pos
+37311b148714fb94333cc1a9adefbd39,merchant,,account_123,2024-04-12,131.3,completed,balance,HEB,2025-10-25T18:50:18.973319,HEB,grocery_pos
+3659a7222ede92af1f8cfc2f379ff2e1,merchant,,account_123,2024-04-12,438.83,completed,balance,Sephora,2025-10-25T18:50:18.973319,Sephora,personal_care
+1dedb00b212883afb5f07d303762e3f6,merchant,,account_123,2024-04-12,11.06,completed,balance,Spotify,2025-10-25T18:50:18.973319,Spotify,entertainment
+cae896303d358a1e52feca2098fa6ccc,merchant,,account_123,2024-04-12,20.04,completed,balance,Lowe’s,2025-10-25T18:50:18.973319,Lowe’s,home
+884035085deee5b1dc5f84115062887b,merchant,,account_123,2024-04-12,6.04,completed,balance,Ebay,2025-10-25T18:50:18.973319,Ebay,shopping_net
+b4e0fd7bcacc8581fed08d149244e5f0,merchant,,account_123,2024-04-13,36.96,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+5c3b2ea8fd174abb052d8f7fc845de34,merchant,,account_123,2024-04-13,45.43,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+b84d269266c56a6f9e026ef47dcf0509,merchant,,account_123,2024-04-13,3.36,completed,balance,Chipotle,2025-10-25T18:50:18.973319,Chipotle,food_dining
+6b521a9f5935a7f061ab092510733aa2,merchant,,account_123,2024-04-13,37.17,completed,balance,Home Depot,2025-10-25T18:50:18.973319,Home Depot,home
+934e552db08438d8e9b6a0f925396226,merchant,,account_123,2024-04-13,6.92,completed,balance,Nike.com,2025-10-25T18:50:18.973319,Nike.com,shopping_net
+5b34b9b6796c35ef19a22d64bb89a420,merchant,,account_123,2024-04-14,2.01,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,misc_pos
+0ad1ab9c08bcaaa7fb4618d1946720c4,merchant,,account_123,2024-04-15,62.92,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+ba9f263c0dc19d851494068811df9e58,merchant,,account_123,2024-04-15,41.46,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+e9e24ce89c2530af0e964f41c443cea7,merchant,,account_123,2024-04-15,8.54,completed,balance,Dollar Tree,2025-10-25T18:50:18.973319,Dollar Tree,misc_pos
+a8a602732b087fd731238909a4a9223e,merchant,,account_123,2024-04-15,16.83,completed,balance,Subway,2025-10-25T18:50:18.973319,Subway,food_dining
+84f9761bfe6105d0ce2b6b71b6b1579c,merchant,,account_123,2024-04-15,7.42,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+208b4f6c5e068c55d960ec65a1d97c28,merchant,,account_123,2024-04-15,7.41,completed,balance,Oxxo,2025-10-25T18:50:18.973319,Oxxo,misc_pos
+ae53840e159f20d6a4438f8ffe20c8a3,merchant,,account_123,2024-04-15,7.55,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+9799f932ddf2b4fb27a2f872bf7afd9f,merchant,,account_123,2024-04-16,9.71,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+bd4cd449f3a005ddf3a246bca9cd240d,merchant,,account_123,2024-04-16,7.07,completed,balance,Amazon,2025-10-25T18:50:18.973319,Amazon,misc_net
+8424976391febb98af6ddab3385058be,merchant,,account_123,2024-04-17,56.75,completed,balance,Chevron,2025-10-25T18:50:18.973319,Chevron,gas_transport
+3b80a45f5c6b32cc19d4fcf5256bb5bb,merchant,,account_123,2024-04-17,3.6,completed,balance,Temu,2025-10-25T18:50:18.973319,Temu,shopping_net
+5e2eb681a41da3a71ba3d5e8015406dd,merchant,,account_123,2024-04-17,1.69,completed,balance,Best Buy,2025-10-25T18:50:18.973319,Best Buy,shopping_pos
+dc3b77b469c8af763d70c8aa25382eb0,merchant,,account_123,2024-04-17,73.39,completed,balance,Wayfair,2025-10-25T18:50:18.973319,Wayfair,home
+a4af8a2bcdb1141294b8efa20ccfc9f0,merchant,,account_123,2024-04-17,6.76,completed,balance,Target,2025-10-25T18:50:18.973319,Target,travel
+c25fd0ff1a68b9ef3c1a588a0fda7569,merchant,,account_123,2024-04-18,56.42,completed,balance,Shell,2025-10-25T18:50:18.973319,Shell,gas_transport
+266537258e22dff9dfedd1c0447bad24,merchant,,account_123,2024-04-18,4.53,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+021786b187146d49fa3d6b794e90729c,merchant,,account_123,2024-04-18,31.63,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.973319,24 Hour Fitness,health_fitness
+a3e6e7b3cdfbff335f1b03725e4c8f6a,merchant,,account_123,2024-04-18,8.14,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,misc_pos
+e47598597c52e7174e804b7772193a95,merchant,,account_123,2024-04-18,8.38,completed,balance,Shein,2025-10-25T18:50:18.973319,Shein,shopping_net
+194b775b60f4ca62c770d1acd1140535,merchant,,account_123,2024-04-18,86.82,completed,balance,Netflix,2025-10-25T18:50:18.973319,Netflix,entertainment
+58ff40c4323265d5e8511242d77bcb41,merchant,,account_123,2024-04-18,143.17,completed,balance,Disney+,2025-10-25T18:50:18.973319,Disney+,entertainment
+f5af97cdc85f5ab279a60efa34e2c42e,merchant,,account_123,2024-04-18,6.65,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,travel
+aff1cfbe9771a916333367a0a1611d53,merchant,,account_123,2024-04-18,2.04,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,shopping_pos
+14ab2d7a885dd6e6b3b85a9300ede648,merchant,,account_123,2024-04-19,100.97,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+e570d375edad6cbc98bd241e6f1c616e,merchant,,account_123,2024-04-19,50.49,completed,balance,Shell,2025-10-25T18:50:18.973319,Shell,gas_transport
+c8fef6ff2874d826172e361888e4998a,merchant,,account_123,2024-04-19,10.16,completed,balance,Petco,2025-10-25T18:50:18.973319,Petco,kids_pets
+757f7d14dd85d6c3289f2feaa2503197,merchant,,account_123,2024-04-19,3.06,completed,balance,Nike.com,2025-10-25T18:50:18.973319,Nike.com,shopping_net
+65a70285d1695477a30263c86070fbfb,merchant,,account_123,2024-04-19,6.04,completed,balance,eBay,2025-10-25T18:50:18.973319,eBay,misc_net
+822b7aae28b5207b7fadd7bd52146939,merchant,,account_123,2024-04-19,3.65,completed,balance,Chipotle,2025-10-25T18:50:18.973319,Chipotle,food_dining
+54f619b87bea09ca5f2e01e3fc7abbc8,merchant,,account_123,2024-04-20,40.98,completed,balance,Chevron,2025-10-25T18:50:18.973319,Chevron,gas_transport
+eaadc0f0f6ead382071c9fe041444c65,merchant,,account_123,2024-04-20,89.94,completed,balance,Sam's Club,2025-10-25T18:50:18.973319,Sam's Club,grocery_pos
+2734fca202e12a2f265be0aabd47ebec,merchant,,account_123,2024-04-20,29.8,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,home
+418160a449b7e2ef4b296ffd7492d0b8,merchant,,account_123,2024-04-20,127.12,completed,balance,Ulta Beauty,2025-10-25T18:50:18.973319,Ulta Beauty,personal_care
+f175f8fdf8772781f21ff3fe7a020aa3,merchant,,account_123,2024-04-21,118.85,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,grocery_pos
+fcaf594fd356f6c11e1a6406766ff1db,merchant,,account_123,2024-04-21,61.58,completed,balance,Chevron,2025-10-25T18:50:18.973319,Chevron,gas_transport
+aa54b10c49de9ebd14318e11c7a75993,merchant,,account_123,2024-04-21,1.9,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+ab2d5acef03f0db2f8249ac4f9a5ae98,merchant,,account_123,2024-04-21,37.05,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+f65a5a0540a7925b9c4b587cd7041eec,merchant,,account_123,2024-04-21,27.49,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+50774e2d21bbf08a79e2084cb6a98cbd,merchant,,account_123,2024-04-21,8.2,completed,balance,Best Buy,2025-10-25T18:50:18.973319,Best Buy,shopping_pos
+a631f1d06b53a07fb1350ec69231981a,merchant,,account_123,2024-04-22,76.45,completed,balance,Whole Foods Online,2025-10-25T18:50:18.973319,Whole Foods Online,grocery_net
+9b435bcd807fcfe04a621f47697c6f68,merchant,,account_123,2024-04-22,27.48,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+88681824bcaba3613a917c20cefca310,merchant,,account_123,2024-04-22,8.09,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,misc_pos
+abcf0c89c9bf3410c2200fa76361a619,merchant,,account_123,2024-04-22,1.57,completed,balance,McDonald's,2025-10-25T18:50:18.973319,McDonald's,food_dining
+e01ffb9399c9227dda6dc86c5e1beb9b,merchant,,account_123,2024-04-22,6.84,completed,balance,Starbucks,2025-10-25T18:50:18.973319,Starbucks,travel
+afe6a80746a4ed1052efe224f14852a0,merchant,,account_123,2024-04-22,9.68,completed,balance,Apple Store,2025-10-25T18:50:18.973319,Apple Store,shopping_pos
+7b7da6c351107839b20c24c08f6aefaa,merchant,,account_123,2024-04-23,65.0,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+36bbbda6a9d506062248631e8dc7f5fa,merchant,,account_123,2024-04-23,240.12,completed,balance,Wayfair,2025-10-25T18:50:18.973319,Wayfair,home
+be851dfc9a79378e46a05e5b1cdb4fcc,merchant,,account_123,2024-04-24,242.83,completed,balance,Build-A-Bear,2025-10-25T18:50:18.973319,Build-A-Bear,kids_pets
+e5663f716ab0a6a5e6566472473d7db9,merchant,,account_123,2024-04-24,5.9,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+811a3f13280c76d42b76cba2c8f5cd7a,merchant,,account_123,2024-04-24,50.48,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.973319,24 Hour Fitness,health_fitness
+a449807943ff7bdfde4a4139acaaaef5,merchant,,account_123,2024-04-25,46.72,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+748a060a2d46f58969bb0b003cd28e11,merchant,,account_123,2024-04-25,18.19,completed,balance,Lowe’s,2025-10-25T18:50:18.973319,Lowe’s,home
+e391c140d90f4e48e17f3e762e457da4,merchant,,account_123,2024-04-25,68.77,completed,balance,CVS,2025-10-25T18:50:18.973319,CVS,personal_care
+ebeb56c21e026dcc83176368b061e8b1,merchant,,account_123,2024-04-25,699.18,completed,balance,H&M,2025-10-25T18:50:18.973319,H&M,shopping_pos
+d5639e097fec72f0397339a25f1e6d39,merchant,,account_123,2024-04-26,65.49,completed,balance,Amazon Fresh,2025-10-25T18:50:18.973319,Amazon Fresh,grocery_net
+11259c100093de41a21254348dfe4a7a,merchant,,account_123,2024-04-26,21.13,completed,balance,Chipotle,2025-10-25T18:50:18.973319,Chipotle,food_dining
+e933673dd02582f5cc1a73a81a0541ad,merchant,,account_123,2024-04-26,9.56,completed,balance,AMC Theatres,2025-10-25T18:50:18.973319,AMC Theatres,entertainment
+ac33023fe6f018c40065d18ed3589124,merchant,,account_123,2024-04-26,4.13,completed,balance,Amazon,2025-10-25T18:50:18.973319,Amazon,shopping_net
+dbce53a2aec3246d82c3c11effdc9782,merchant,,account_123,2024-04-26,4.21,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+f45be8403dbe92e9ceacef0d8d0b02fd,merchant,,account_123,2024-04-26,79.16,completed,balance,McDonald's,2025-10-25T18:50:18.973319,McDonald's,food_dining
+60f4fd1791adac7973d23fde41e0c06b,merchant,,account_123,2024-04-27,234.38,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+2f718f16003c5d617c3b2eec6520dfd2,merchant,,account_123,2024-04-27,18.22,completed,balance,Subway,2025-10-25T18:50:18.973319,Subway,food_dining
+754a2c1ef05cfa9b447107b8421a3e77,merchant,,account_123,2024-04-27,9.88,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+1b5270c6362bd26813907ada8f246a41,merchant,,account_123,2024-04-27,5.07,completed,balance,H&M,2025-10-25T18:50:18.973319,H&M,shopping_pos
+3f82216afd754c1f25f760898c2cd897,merchant,,account_123,2024-04-27,28.22,completed,balance,Ulta Beauty,2025-10-25T18:50:18.973319,Ulta Beauty,personal_care
+04e253108a623fb60c5ba7db7d826d80,merchant,,account_123,2024-04-27,6.23,completed,balance,Apple Store,2025-10-25T18:50:18.973319,Apple Store,shopping_pos
+691cc3a166ef6166b20e624e97e4db93,merchant,,account_123,2024-04-27,4.06,completed,balance,eBay,2025-10-25T18:50:18.973319,eBay,misc_net
+bd9cb15353a075b8f1f672c3ef9518ea,merchant,,account_123,2024-04-27,26.22,completed,balance,Planet Fitness,2025-10-25T18:50:18.973319,Planet Fitness,health_fitness
+f3c084ed55437011aac4cef32745b45a,merchant,,account_123,2024-04-28,40.6,completed,balance,Wayfair,2025-10-25T18:50:18.973319,Wayfair,home
+65d8de5e60805164f51bb6ba2d62008d,merchant,,account_123,2024-04-28,28.15,completed,balance,PetSmart,2025-10-25T18:50:18.973319,PetSmart,kids_pets
+d46d9d458ad7bde23ef006164b4daf59,merchant,,account_123,2024-04-28,16.69,completed,balance,McDonald's,2025-10-25T18:50:18.973319,McDonald's,food_dining
+5f2392ad655e983a3e567716d300b16b,merchant,,account_123,2024-04-28,4.73,completed,balance,Nike.com,2025-10-25T18:50:18.973319,Nike.com,shopping_net
+a543a58235ed8576d3428a8593e378a2,merchant,,account_123,2024-04-28,2.15,completed,balance,Gymshark,2025-10-25T18:50:18.973319,Gymshark,health_fitness
+3de7e23b3b61c5e610e9f7bfff8c435a,merchant,,account_123,2024-04-29,48.42,completed,balance,ExxonMobil,2025-10-25T18:50:18.973319,ExxonMobil,gas_transport
+3884799e66b36b5ac30708c371539310,merchant,,account_123,2024-04-29,8.01,completed,balance,Walmart,2025-10-25T18:50:18.973319,Walmart,misc_pos
+e887992d46aa13983ac10b421948fe0f,merchant,,account_123,2024-04-29,2.65,completed,balance,KFC,2025-10-25T18:50:18.973319,KFC,food_dining
+193e728104cffae36dab1bba89bc5168,merchant,,account_123,2024-04-29,5.42,completed,balance,PetSmart,2025-10-25T18:50:18.973319,PetSmart,kids_pets
+c055db2acd13e5c4f0beb23bfdfe2723,merchant,,account_123,2024-04-29,17.95,completed,balance,Starbucks,2025-10-25T18:50:18.973319,Starbucks,food_dining
+32b9e630057f00285ae0955f3b43d69b,merchant,,account_123,2024-04-29,36.33,completed,balance,CVS,2025-10-25T18:50:18.973319,CVS,personal_care
+9adf68d5b4f3e9b4ff79ef8687c8a0c1,merchant,,account_123,2024-04-29,65.56,completed,balance,Walgreens,2025-10-25T18:50:18.973319,Walgreens,personal_care
+56b02453f3b97270d9eef5ab2c84fa2e,merchant,,account_123,2024-04-29,89.03,completed,balance,Lowe’s,2025-10-25T18:50:18.973319,Lowe’s,home
+47420d266b07977e235b66ff7b508d77,merchant,,account_123,2024-04-30,81.59,completed,balance,Sam's Club,2025-10-25T18:50:18.973319,Sam's Club,grocery_pos
+fc10ab23194de4dd18a99fd4dbc5008d,merchant,,account_123,2024-04-30,106.37,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+118be5d02da77e875e07f41f57f7bc51,merchant,,account_123,2024-04-30,25.11,completed,balance,PetSmart,2025-10-25T18:50:18.973319,PetSmart,kids_pets
+9a7d879eed51fd9969faafbbbd25efdf,merchant,,account_123,2024-04-30,3.54,completed,balance,Apple Store,2025-10-25T18:50:18.973319,Apple Store,shopping_pos
+e262a94ca273c7348273096fa46058e5,merchant,,account_123,2024-04-30,88.92,completed,balance,McDonald's,2025-10-25T18:50:18.973319,McDonald's,food_dining
+7d191ae7e21a72d38dc4250f0a10f869,merchant,,account_123,2024-05-01,69.94,completed,balance,HEB,2025-10-25T18:50:18.973319,HEB,grocery_pos
+61efadadd81f4bf0edb2ad21dcf85047,merchant,,account_123,2024-05-01,35.44,completed,balance,CVS,2025-10-25T18:50:18.973319,CVS,personal_care
+e5fcbe7242b31b791cc4d9d0ca3f2dcd,merchant,,account_123,2024-05-01,98.95,completed,balance,HBO Max,2025-10-25T18:50:18.973319,HBO Max,entertainment
+372ef8c9bf14c635391c5593d4dd710c,merchant,,account_123,2024-05-02,54.0,completed,balance,Chevron,2025-10-25T18:50:18.973319,Chevron,gas_transport
+48575dfb0fe3cc2466cefa1d3c46d6e1,merchant,,account_123,2024-05-03,70.51,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+ccefa099769c01ca4c3b635e21b28e38,merchant,,account_123,2024-05-03,118.52,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+a63bfd98a7fe4d267eef407731d34115,merchant,,account_123,2024-05-03,53.54,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+df994f12607c66e6df2f14d85f00680f,merchant,,account_123,2024-05-03,99.65,completed,balance,HEB,2025-10-25T18:50:18.973319,HEB,grocery_pos
+832d0bd081b0daccef36f29cd761c17c,merchant,,account_123,2024-05-03,23.51,completed,balance,Sephora,2025-10-25T18:50:18.973319,Sephora,personal_care
+bb38a2b98d2643b64634923a8979ad4b,merchant,,account_123,2024-05-03,29.28,completed,balance,Netflix,2025-10-25T18:50:18.973319,Netflix,entertainment
+abebd8e3b30a0ccbb5e7f0a2e1ca561e,merchant,,account_123,2024-05-03,90.06,completed,balance,LEGO Store,2025-10-25T18:50:18.973319,LEGO Store,kids_pets
+a2ebea3a20e76c2ce88ba5d091d2999d,merchant,,account_123,2024-05-04,42.54,completed,balance,BP,2025-10-25T18:50:18.973319,BP,gas_transport
+9437145a524463e15ade99a20a5825fc,merchant,,account_123,2024-05-04,1.65,completed,balance,Temu,2025-10-25T18:50:18.973319,Temu,shopping_net
+160c38b2173dd62e5f39cf00b0895b62,merchant,,account_123,2024-05-04,144.14,completed,balance,H&M,2025-10-25T18:50:18.973319,H&M,shopping_pos
+785bbc5dfdc7f899990fcbad269a4f45,merchant,,account_123,2024-05-04,7.16,completed,balance,7-Eleven,2025-10-25T18:50:18.973319,7-Eleven,misc_pos
+2853b6a6aa109d8f742f2ec7a5676da7,merchant,,account_123,2024-05-04,77.68,completed,balance,Sephora,2025-10-25T18:50:18.973319,Sephora,personal_care
+a33b9da35f92042a7bead6827ad83815,merchant,,account_123,2024-05-04,9.02,completed,balance,Petco,2025-10-25T18:50:18.973319,Petco,kids_pets
+7b7ee61d63302ddac46454693eb76c18,merchant,,account_123,2024-05-05,90.41,completed,balance,Costco,2025-10-25T18:50:18.973319,Costco,grocery_pos
+71f2dbc7143d3f79de780f445215082f,merchant,,account_123,2024-05-05,47.6,completed,balance,Circle K,2025-10-25T18:50:18.973319,Circle K,gas_transport
+3c2134599103bc267adcb4158d856f04,merchant,,account_123,2024-05-05,56.56,completed,balance,Shell,2025-10-25T18:50:18.973319,Shell,gas_transport
+078859b7af7ccbb322f7a049df583a34,merchant,,account_123,2024-05-05,80.55,completed,balance,Ulta Beauty,2025-10-25T18:50:18.973319,Ulta Beauty,personal_care
+09787c648385d1c1eca9046a4cf972b3,merchant,,account_123,2024-05-05,66.39,completed,balance,IKEA,2025-10-25T18:50:18.973319,IKEA,home
+965392723a95f919b04e0e554519b88a,merchant,,account_123,2024-05-05,4.71,completed,balance,Oxxo,2025-10-25T18:50:18.973319,Oxxo,misc_pos
+28b815a41b99ca29d2c4b26e778e6b5a,merchant,,account_123,2024-05-05,11.22,completed,balance,Peloton,2025-10-25T18:50:18.973319,Peloton,health_fitness
+f445a5e447b3666a18d2f387ade4b2f5,merchant,,account_123,2024-05-05,76.74,completed,balance,Sephora,2025-10-25T18:50:18.973319,Sephora,personal_care
+dd4b884ef1588df5ab9f1837cddd548b,merchant,,account_123,2024-05-06,7.13,completed,balance,Shein,2025-10-25T18:50:18.973319,Shein,shopping_net
+c6903940d61ccc90afe7e003a07280d0,merchant,,account_123,2024-05-06,5.1,completed,balance,Dollar Tree,2025-10-25T18:50:18.973319,Dollar Tree,misc_pos
+6dba1448722f2c4fcce12f8df6559d7d,merchant,,account_123,2024-05-06,30.56,completed,balance,24 Hour Fitness,2025-10-25T18:50:18.973319,24 Hour Fitness,health_fitness
+15bfbd874a97262e68ce3fa9a6198d43,merchant,,account_123,2024-05-06,190.3,completed,balance,Petco,2025-10-25T18:50:18.973319,Petco,kids_pets
+e1407663d3e6a96d1e641246be13030f,merchant,,account_123,2024-05-06,7.93,completed,balance,Build-A-Bear,2025-10-25T18:50:19.311039,Build-A-Bear,kids_pets
+2e84ec71e5aec59c1d22a35ddaf1c44a,merchant,,account_123,2024-05-07,61.82,completed,balance,ExxonMobil,2025-10-25T18:50:19.311039,ExxonMobil,gas_transport
+0ecf7760c1c7c9b79570cb7e9574dd00,merchant,,account_123,2024-05-07,61.83,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+ba68ad783556af63616e69feab5c9c89,merchant,,account_123,2024-05-08,73.59,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+2d7cc5f42f4985a0ca4dee4c17f5a544,merchant,,account_123,2024-05-08,62.52,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+fdf42cc02e83b2708d3ec6dc6adad415,merchant,,account_123,2024-05-08,1.01,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+36a4c01b2bc9a8fdca28fd8e995a34a8,merchant,,account_123,2024-05-08,83.76,completed,balance,Planet Fitness,2025-10-25T18:50:19.311039,Planet Fitness,health_fitness
+0d9a541b42b0178e0ea8b3fda36c2d47,merchant,,account_123,2024-05-08,128.99,completed,balance,Ebay,2025-10-25T18:50:19.311039,Ebay,shopping_net
+c634afa7eea6eb4b9c929bd105ab4909,merchant,,account_123,2024-05-08,26.4,completed,balance,PetSmart,2025-10-25T18:50:19.311039,PetSmart,kids_pets
+3e156a2f93a0747c8c20b1c93560bccf,merchant,,account_123,2024-05-09,73.36,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+86bc5be2c6ac179c5db855b60c284dd3,merchant,,account_123,2024-05-09,37.43,completed,balance,Build-A-Bear,2025-10-25T18:50:19.311039,Build-A-Bear,kids_pets
+b6da4dac79f663ea335daf55e71fbc66,merchant,,account_123,2024-05-09,72.57,completed,balance,Sephora,2025-10-25T18:50:19.311039,Sephora,personal_care
+11f39b1e3091feed5a85d6bb6c5692b8,merchant,,account_123,2024-05-09,90.69,completed,balance,Zara,2025-10-25T18:50:19.311039,Zara,shopping_pos
+807c65bfd82dca61ab4481b244c2d855,merchant,,account_123,2024-05-09,6.21,completed,balance,Nike.com,2025-10-25T18:50:19.311039,Nike.com,shopping_net
+f46d0228c867e06dd7068dff57095023,merchant,,account_123,2024-05-09,14.06,completed,balance,KFC,2025-10-25T18:50:19.311039,KFC,food_dining
+ff884097240c08e4cb88307b34c87e8d,merchant,,account_123,2024-05-09,135.72,completed,balance,Wayfair,2025-10-25T18:50:19.311039,Wayfair,home
+be64c882a7911e430613d0d7c2bd7251,merchant,,account_123,2024-05-10,69.24,completed,balance,Circle K,2025-10-25T18:50:19.311039,Circle K,gas_transport
+0728f997e79ccfbbccccb3cfa90283b2,merchant,,account_123,2024-05-10,81.89,completed,balance,HEB,2025-10-25T18:50:19.311039,HEB,grocery_pos
+097f448ed7e01bb0581c7301116b7f80,merchant,,account_123,2024-05-10,61.95,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+eac8786a3e0e365fa97f1d3dc4a6f0b9,merchant,,account_123,2024-05-10,5.78,completed,balance,Shein,2025-10-25T18:50:19.311039,Shein,shopping_net
+e8fc5ac1b4f82cde26e1bb5edcad86f4,merchant,,account_123,2024-05-10,174.58,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,shopping_net
+fffa417bb4ce610b6d82bc79e2ac02c9,merchant,,account_123,2024-05-10,2.5,completed,balance,Best Buy,2025-10-25T18:50:19.311039,Best Buy,shopping_pos
+7b866eb9a94f8a6babe366f48299ec65,merchant,,account_123,2024-05-10,76.3,completed,balance,Lowe’s,2025-10-25T18:50:19.311039,Lowe’s,home
+eda89d7269e0c5c00a479cd7e07fb93a,merchant,,account_123,2024-05-10,7.31,completed,balance,Temu,2025-10-25T18:50:19.311039,Temu,shopping_net
+171a4c0f37f567ce2cf4144ea5575a88,merchant,,account_123,2024-05-11,50.12,completed,balance,Planet Fitness,2025-10-25T18:50:19.311039,Planet Fitness,health_fitness
+f10e8e9c131d671328fe6867af4b2800,merchant,,account_123,2024-05-11,5.58,completed,balance,Starbucks,2025-10-25T18:50:19.311039,Starbucks,travel
+4608788bcdd5af2538531bf396670f42,merchant,,account_123,2024-05-12,102.85,completed,balance,Sam's Club,2025-10-25T18:50:19.311039,Sam's Club,grocery_pos
+157419742c064cbf5088d5dbb14bb704,merchant,,account_123,2024-05-12,95.83,completed,balance,Amazon Fresh,2025-10-25T18:50:19.311039,Amazon Fresh,grocery_net
+58e526deac581f65305fa15a7a26a352,merchant,,account_123,2024-05-12,101.45,completed,balance,Sam's Club,2025-10-25T18:50:19.311039,Sam's Club,grocery_pos
+a073e56abc4f8db3c0e9ad520e065279,merchant,,account_123,2024-05-12,66.14,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,misc_net
+6b54f0a2d5398308713ab511b40011cc,merchant,,account_123,2024-05-12,107.22,completed,balance,Walmart,2025-10-25T18:50:19.311039,Walmart,grocery_pos
+dcf4635d9898db0fd953e46006d44581,merchant,,account_123,2024-05-12,72.77,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+74bd60d728591f31ddf71fdb7e7968ad,merchant,,account_123,2024-05-12,5.67,completed,balance,Ulta Beauty,2025-10-25T18:50:19.311039,Ulta Beauty,personal_care
+041e2151169c05402b0e113a7182f468,merchant,,account_123,2024-05-12,6.44,completed,balance,McDonald's,2025-10-25T18:50:19.311039,McDonald's,food_dining
+1294e410d5b11f322a126622e42f0870,merchant,,account_123,2024-05-13,60.87,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+240d719639427dea304f15f66e6cac08,merchant,,account_123,2024-05-13,59.38,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+d1cab8ab296a90c2357247363668934d,merchant,,account_123,2024-05-13,104.43,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+85a67747122b7d48a8276043b1c57b13,merchant,,account_123,2024-05-13,72.58,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+53785e0446422314a14a5b08778a76a3,merchant,,account_123,2024-05-13,85.75,completed,balance,Sam's Club,2025-10-25T18:50:19.311039,Sam's Club,grocery_pos
+2a7d8f2583311eae0bf5042f837ae4ad,merchant,,account_123,2024-05-13,71.53,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+99493e6c90b4d4132d9303945d5d212a,merchant,,account_123,2024-05-13,29.32,completed,balance,Oxxo,2025-10-25T18:50:19.311039,Oxxo,misc_pos
+84e0daf2c789b87d2ba0592bfcb39a36,merchant,,account_123,2024-05-13,10.43,completed,balance,Lowe’s,2025-10-25T18:50:19.311039,Lowe’s,home
+a09aa97223e2494dde842315296ec4cc,merchant,,account_123,2024-05-13,124.69,completed,balance,Nike.com,2025-10-25T18:50:19.311039,Nike.com,shopping_net
+f698d9f1a5d93defb160e2997ac4ddf9,merchant,,account_123,2024-05-15,119.28,completed,balance,H&M,2025-10-25T18:50:19.311039,H&M,shopping_pos
+bc7647e287aa92010417f9485cfb18e5,merchant,,account_123,2024-05-15,41.0,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+9f719585a2a8bfba78773306ce57c74e,merchant,,account_123,2024-05-15,14.65,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+3c87712a4b61539d2a222814b897d1e4,merchant,,account_123,2024-05-16,115.37,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+1fb861f65d273dde8abb48c2ea2c922f,merchant,,account_123,2024-05-16,14.79,completed,balance,Lowe’s,2025-10-25T18:50:19.311039,Lowe’s,home
+7937b2b3dd0bf0280baab17ddbb2ae3a,merchant,,account_123,2024-05-16,128.76,completed,balance,Walgreens,2025-10-25T18:50:19.311039,Walgreens,personal_care
+a972042aeb78f1ba919b212d5eb559d5,merchant,,account_123,2024-05-17,124.28,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+0353360904beece98caca344c34ddbc3,merchant,,account_123,2024-05-17,44.68,completed,balance,Whole Foods Online,2025-10-25T18:50:19.311039,Whole Foods Online,grocery_net
+d430483523e01e87b5512f99cc3e6076,merchant,,account_123,2024-05-17,46.85,completed,balance,Whole Foods Online,2025-10-25T18:50:19.311039,Whole Foods Online,grocery_net
+f82dce9f1c819fb3748f7852fae37543,merchant,,account_123,2024-05-17,230.99,completed,balance,Sephora,2025-10-25T18:50:19.311039,Sephora,personal_care
+6caee165dd0dc0071d6660a0e76717af,merchant,,account_123,2024-05-17,17.25,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+4d8c1af975d199baca8f19e0d1761509,merchant,,account_123,2024-05-17,12.1,completed,balance,Chipotle,2025-10-25T18:50:19.311039,Chipotle,food_dining
+a00d9f8caf630566d914054ccee88c3c,merchant,,account_123,2024-05-18,48.28,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+9fdff20e21e185c257675b1fb25a4209,merchant,,account_123,2024-05-18,8.4,completed,balance,H&M,2025-10-25T18:50:19.311039,H&M,shopping_pos
+412c7e6a34bc9e2aac7decf87a51cdc8,merchant,,account_123,2024-05-18,88.3,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+5247f31d405c3d040ce9eba0a3eb2ba9,merchant,,account_123,2024-05-18,35.51,completed,balance,Ulta Beauty,2025-10-25T18:50:19.311039,Ulta Beauty,personal_care
+257eb8366afdf0c8b18c2427859d0eb6,merchant,,account_123,2024-05-18,61.11,completed,balance,LEGO Store,2025-10-25T18:50:19.311039,LEGO Store,kids_pets
+dd6ed6d3e07ae26fb2227d29086e2b48,merchant,,account_123,2024-05-18,3.35,completed,balance,Walmart,2025-10-25T18:50:19.311039,Walmart,travel
+afa917e2b7e7e96d2835b2e89772017b,merchant,,account_123,2024-05-19,5.54,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,misc_net
+2216ef1b59f3a0c3cb6816571ec14d66,merchant,,account_123,2024-05-19,68.92,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+73648f95d148740ebf80a697bcb6db17,merchant,,account_123,2024-05-19,102.67,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+a7dd4ba2ae3ecea82055eaf767577433,merchant,,account_123,2024-05-19,35.16,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+c43fa5271c3b5dbb6df06c441dcc55b8,merchant,,account_123,2024-05-19,1.69,completed,balance,Walgreens,2025-10-25T18:50:19.311039,Walgreens,personal_care
+3886fe31c52c1c3e6458c4d0744ca938,merchant,,account_123,2024-05-19,9.33,completed,balance,Temu,2025-10-25T18:50:19.311039,Temu,shopping_net
+d140e543f23eaf706ecfa5528132be5a,merchant,,account_123,2024-05-19,5.49,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,travel
+80bc5575daaa5ce70eac5c1575c76b15,merchant,,account_123,2024-05-20,100.09,completed,balance,Walmart,2025-10-25T18:50:19.311039,Walmart,grocery_pos
+a788eea0b21a34bee12005d21ae6c38a,merchant,,account_123,2024-05-20,20.03,completed,balance,Peloton,2025-10-25T18:50:19.311039,Peloton,health_fitness
+06241a8ba14b7b183a1af03afd317504,merchant,,account_123,2024-05-20,9.53,completed,balance,Zara,2025-10-25T18:50:19.311039,Zara,shopping_pos
+4c210e40f7918632c0ea221c4cc2a771,merchant,,account_123,2024-05-20,9.96,completed,balance,7-Eleven,2025-10-25T18:50:19.311039,7-Eleven,misc_pos
+1a3ba739c441635a51eb7d0839e53074,merchant,,account_123,2024-05-20,30.94,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+40b2f57ba5f84bf67ac1c6301dc3272a,merchant,,account_123,2024-05-20,119.78,completed,balance,Home Depot,2025-10-25T18:50:19.311039,Home Depot,home
+2a5585f8b40e4e76db9bf0fccf56b8df,merchant,,account_123,2024-05-20,7.54,completed,balance,Dollar Tree,2025-10-25T18:50:19.311039,Dollar Tree,misc_pos
+51be9d7ca3ff29da014f5598d58345b7,merchant,,account_123,2024-05-20,1.81,completed,balance,Chipotle,2025-10-25T18:50:19.311039,Chipotle,food_dining
+356f659f451093c8f620c91162ee3456,merchant,,account_123,2024-05-21,47.37,completed,balance,Circle K,2025-10-25T18:50:19.311039,Circle K,gas_transport
+6d727db3552854ce711d7271af448f34,merchant,,account_123,2024-05-21,3.4,completed,balance,Oxxo,2025-10-25T18:50:19.311039,Oxxo,misc_pos
+37c380681f663c22dca55d173a7a20bd,merchant,,account_123,2024-05-21,65.84,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+0cf73a6eb4447508b0dbb15c8383250a,merchant,,account_123,2024-05-22,87.23,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+e2cff1d0f0db23aebb4e7e2c43d19e24,merchant,,account_123,2024-05-22,63.34,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+a82e157c155496adc2d9374574ebb1de,merchant,,account_123,2024-05-22,64.38,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+e3598aea6d91a48bf3bd3c382940be01,merchant,,account_123,2024-05-22,128.84,completed,balance,Wayfair,2025-10-25T18:50:19.311039,Wayfair,home
+6b28fe5be178119a048e771ae09f7366,merchant,,account_123,2024-05-22,52.37,completed,balance,Spotify,2025-10-25T18:50:19.311039,Spotify,entertainment
+f1bd1cfc7969fd99add572ddf8643a75,merchant,,account_123,2024-05-22,35.67,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+5f6ab54bb42dbbc29f8ac3eb15925eb1,merchant,,account_123,2024-05-23,12.5,completed,balance,Spotify,2025-10-25T18:50:19.311039,Spotify,entertainment
+f1c680214d5dcd0b7071231b004dd0b2,merchant,,account_123,2024-05-23,74.53,completed,balance,Planet Fitness,2025-10-25T18:50:19.311039,Planet Fitness,health_fitness
+618122b25cfd21fadb877c19e8a944f7,merchant,,account_123,2024-05-24,117.44,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+f24ee189940f91791fa9c8a80de6e51e,merchant,,account_123,2024-05-24,133.75,completed,balance,Ebay,2025-10-25T18:50:19.311039,Ebay,shopping_net
+5d55c274317456f9bf4504e3f36d7f73,merchant,,account_123,2024-05-24,30.21,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+cd908911d588c1c068cd041e3ed39a4a,merchant,,account_123,2024-05-24,72.28,completed,balance,Spotify,2025-10-25T18:50:19.311039,Spotify,entertainment
+bef8187219e3e83041dba521bc973fb1,merchant,,account_123,2024-05-24,11.47,completed,balance,LEGO Store,2025-10-25T18:50:19.311039,LEGO Store,kids_pets
+8e8bf9bcf7da2e5ef23f3cafa3faa5bd,merchant,,account_123,2024-05-24,208.13,completed,balance,Chipotle,2025-10-25T18:50:19.311039,Chipotle,food_dining
+abc0028b8252ef9b5eac07e27b496d6f,merchant,,account_123,2024-05-24,7.45,completed,balance,Temu,2025-10-25T18:50:19.311039,Temu,shopping_net
+647f3c5d7cc059f9f5e5c162d85d714f,merchant,,account_123,2024-05-24,43.02,completed,balance,PetSmart,2025-10-25T18:50:19.311039,PetSmart,kids_pets
+c2ad374effdea72b5748317c65bbe63e,merchant,,account_123,2024-05-25,46.01,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+2c38f3c8793868937e35f211c768adc7,merchant,,account_123,2024-05-25,12.2,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+546f432670a8b87ece56ad6f6e9e048c,merchant,,account_123,2024-05-25,6.21,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+e69d5092e679c6b6c8b4f61f6142c367,merchant,,account_123,2024-05-25,3.1,completed,balance,Ebay,2025-10-25T18:50:19.311039,Ebay,shopping_net
+fd3711e25eec0e6c4919ba3006e94a36,merchant,,account_123,2024-05-25,68.56,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+1012439f95e42bfdadf0025bf8846e2f,merchant,,account_123,2024-05-25,33.93,completed,balance,Ulta Beauty,2025-10-25T18:50:19.311039,Ulta Beauty,personal_care
+ce89be4209935580c6eb9ea204dde114,merchant,,account_123,2024-05-25,185.9,completed,balance,HBO Max,2025-10-25T18:50:19.311039,HBO Max,entertainment
+c7b081dd19bbd857911a9dfdf0ef2cd0,merchant,,account_123,2024-05-26,163.71,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+7ded9d0b8e7c030ababfe8e0ecf66f50,merchant,,account_123,2024-05-26,116.8,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+ed53a4dc7e46e98b8b96e4133f8dd95c,merchant,,account_123,2024-05-26,18.43,completed,balance,Walgreens,2025-10-25T18:50:19.311039,Walgreens,personal_care
+ca16488bfa2d232a7020cb2a8ffedf46,merchant,,account_123,2024-05-26,67.15,completed,balance,Starbucks,2025-10-25T18:50:19.311039,Starbucks,food_dining
+dada3fbb14ad4c3aba3a87a2a99928d0,merchant,,account_123,2024-05-26,54.07,completed,balance,Wayfair,2025-10-25T18:50:19.311039,Wayfair,home
+9b4f6c1a05c49cb4852239f3d2121f1b,merchant,,account_123,2024-05-26,7.81,completed,balance,Best Buy,2025-10-25T18:50:19.311039,Best Buy,shopping_pos
+d6d18fff0d88d8305df0f19fe9b919ce,merchant,,account_123,2024-05-26,234.16,completed,balance,Etsy,2025-10-25T18:50:19.311039,Etsy,misc_net
+c3d8dd2e27147fe5c027c83d25cf13fb,merchant,,account_123,2024-05-26,167.51,completed,balance,HBO Max,2025-10-25T18:50:19.311039,HBO Max,entertainment
+950f4dafa28fe1248a743452130e88bb,merchant,,account_123,2024-05-27,5.73,completed,balance,eBay,2025-10-25T18:50:19.311039,eBay,misc_net
+f082df81b85d904fa5b23c58e9c17460,merchant,,account_123,2024-05-27,25.98,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+a76dd0f3e15a28dbc0323c322b17c9de,merchant,,account_123,2024-05-27,101.18,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+e24eaa710f1ce29da23aacdff70536b2,merchant,,account_123,2024-05-27,84.18,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+2b27772d6a50b1ccd17d1f4cbe931c4c,merchant,,account_123,2024-05-27,24.83,completed,balance,AMC Theatres,2025-10-25T18:50:19.311039,AMC Theatres,entertainment
+ff932b9cd06950c27c095c828e6f8524,merchant,,account_123,2024-05-27,46.86,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+df309d1c4514cb310ce3ab1928529eaf,merchant,,account_123,2024-05-27,52.17,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+fc3493fcd570fe13ccb4132cb0037d09,merchant,,account_123,2024-05-27,66.57,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+d80f7f8871e45632d4614430f76b33a6,merchant,,account_123,2024-05-27,1.66,completed,balance,Nike.com,2025-10-25T18:50:19.311039,Nike.com,shopping_net
+38cc3ed103211bffc48bc08a8e54f9ac,merchant,,account_123,2024-05-28,2.76,completed,balance,Walmart,2025-10-25T18:50:19.311039,Walmart,misc_pos
+24508e82028e209249c3c4b57237446c,merchant,,account_123,2024-05-28,31.14,completed,balance,AMC Theatres,2025-10-25T18:50:19.311039,AMC Theatres,entertainment
+40e95c15217eb21f07d723bed1a914a1,merchant,,account_123,2024-05-29,1.11,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+482e942baa5e2b5cfd72560d1f9e6495,merchant,,account_123,2024-05-29,9.96,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+0921a89be522f68029b37d89d00e828a,merchant,,account_123,2024-05-29,238.78,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+67c22428ff7a2469b539f2cc54b78ac0,merchant,,account_123,2024-05-29,47.36,completed,balance,Disney+,2025-10-25T18:50:19.311039,Disney+,entertainment
+ca8dd8da9985ef95b2dabb28dbb29c3e,merchant,,account_123,2024-05-30,113.49,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+ac9f9b748eb290ead3d1b0c4dda2006d,merchant,,account_123,2024-05-30,27.41,completed,balance,Oxxo,2025-10-25T18:50:19.311039,Oxxo,misc_pos
+97ef0fb8889276a578fb7b0222a16924,merchant,,account_123,2024-05-30,2.13,completed,balance,Best Buy,2025-10-25T18:50:19.311039,Best Buy,shopping_pos
+f5c6dd56ac02e217dbdf1858812d96cd,merchant,,account_123,2024-05-30,2.67,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+032337c606301d2138b63a88dfb7a493,merchant,,account_123,2024-05-30,1.41,completed,balance,Temu,2025-10-25T18:50:19.311039,Temu,shopping_net
+20b4b8c0b506862005287cbc842d767c,merchant,,account_123,2024-05-31,40.56,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+ab7dca94c2651b4103dae2fda4e8ebe5,merchant,,account_123,2024-05-31,3.81,completed,balance,7-Eleven,2025-10-25T18:50:19.311039,7-Eleven,misc_pos
+a315d6d2f68d57fb5dfa5549152955ad,merchant,,account_123,2024-05-31,48.04,completed,balance,Planet Fitness,2025-10-25T18:50:19.311039,Planet Fitness,health_fitness
+67604abd6e6642d41e17e6f42aa710b3,merchant,,account_123,2024-05-31,36.9,completed,balance,PetSmart,2025-10-25T18:50:19.311039,PetSmart,kids_pets
+7f9a21f99fcb86b1a060f9b64d43189a,merchant,,account_123,2024-05-31,5.77,completed,balance,Shein,2025-10-25T18:50:19.311039,Shein,shopping_net
+3e7927a9923aff7b034eb8b5d0c3cb5b,merchant,,account_123,2024-05-31,82.96,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+9f74bf3331f7179efeb7fea6b22314ef,merchant,,account_123,2024-05-31,8.04,completed,balance,Best Buy,2025-10-25T18:50:19.311039,Best Buy,shopping_pos
+83291af812040b2ac0650936fc208e29,merchant,,account_123,2024-05-31,2.5,completed,balance,Lowe’s,2025-10-25T18:50:19.311039,Lowe’s,home
+b2560a9793d64c0443fc09bed7de93b7,merchant,,account_123,2024-05-31,1.05,completed,balance,Nike.com,2025-10-25T18:50:19.311039,Nike.com,shopping_net
+19382a914d980fc45e5082700a3627ae,merchant,,account_123,2024-06-01,71.8,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+23bc257c8e3ead3ec63cd3816fc62616,merchant,,account_123,2024-06-01,92.83,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+835af7da05d6c7ec526f31dec477dce1,merchant,,account_123,2024-06-01,36.7,completed,balance,Amazon Fresh,2025-10-25T18:50:19.311039,Amazon Fresh,grocery_net
+2ca62f9ff17457d486bfb0854a56e193,merchant,,account_123,2024-06-01,95.39,completed,balance,Target,2025-10-25T18:50:19.311039,Target,grocery_pos
+3d2497eb2b2709fa283b2ddf06463aff,merchant,,account_123,2024-06-01,22.28,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+3deeb49f18a74a115b9cd11787cadb08,merchant,,account_123,2024-06-01,31.62,completed,balance,AMC Theatres,2025-10-25T18:50:19.311039,AMC Theatres,entertainment
+fdd28e0635e5116552bf4a16ebf4308b,merchant,,account_123,2024-06-01,10.64,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+f91b331b9310c8a07e2e7fc71a0eb983,merchant,,account_123,2024-06-01,13.68,completed,balance,LEGO Store,2025-10-25T18:50:19.311039,LEGO Store,kids_pets
+065d14df4671b5b58270f0703a81d30e,merchant,,account_123,2024-06-01,2.47,completed,balance,Ebay,2025-10-25T18:50:19.311039,Ebay,shopping_net
+115be9905d716daac05505aeaa840275,merchant,,account_123,2024-06-01,14.41,completed,balance,Walgreens,2025-10-25T18:50:19.311039,Walgreens,personal_care
+d9eafd4875f55638652bfd16b910775d,merchant,,account_123,2024-06-01,35.84,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+049bb7ada75a607302c053f96b0a3449,merchant,,account_123,2024-06-02,74.73,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+79d77875bc60c0f8d62bcf944d13702b,merchant,,account_123,2024-06-02,73.66,completed,balance,Instacart,2025-10-25T18:50:19.311039,Instacart,grocery_net
+ff0e25dc10f166292684b9e900216218,merchant,,account_123,2024-06-02,3.38,completed,balance,Disney+,2025-10-25T18:50:19.311039,Disney+,entertainment
+fa4a569c4c3476b46f7c6fa07d74c679,merchant,,account_123,2024-06-02,39.94,completed,balance,H&M,2025-10-25T18:50:19.311039,H&M,shopping_pos
+47ed8fc0ac08bf8d84dbec40781cdeb2,merchant,,account_123,2024-06-02,24.93,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+3e7795f834b771023e2aaee07a4c8b21,merchant,,account_123,2024-06-02,7.37,completed,balance,Shein,2025-10-25T18:50:19.311039,Shein,shopping_net
+323bef1d1132ebca002130e96ad6f2f6,merchant,,account_123,2024-06-02,7.09,completed,balance,Ebay,2025-10-25T18:50:19.311039,Ebay,shopping_net
+d17f9e0230e55062d6836a9f886a83e2,merchant,,account_123,2024-06-02,70.87,completed,balance,PetSmart,2025-10-25T18:50:19.311039,PetSmart,kids_pets
+60fd80bb4c026380fb16d0965217a312,merchant,,account_123,2024-06-02,7.41,completed,balance,Sephora,2025-10-25T18:50:19.311039,Sephora,personal_care
+f39c6629f729af6a682978746638720f,merchant,,account_123,2024-06-02,7.69,completed,balance,Sephora,2025-10-25T18:50:19.311039,Sephora,personal_care
+3040f9894d85c1acaed1a0ad59f4f032,merchant,,account_123,2024-06-02,130.3,completed,balance,HBO Max,2025-10-25T18:50:19.311039,HBO Max,entertainment
+c8e61e83f5a923f1769915dd508bcbaa,merchant,,account_123,2024-06-03,55.52,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+9e24aad38422600a1ccf0faaa7fd7775,merchant,,account_123,2024-06-03,62.72,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+6059894e187e16bbde7a71fe057a62a7,merchant,,account_123,2024-06-03,102.7,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+6000f6379e6bd6b00f3716298ea3338a,merchant,,account_123,2024-06-03,1.86,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,misc_net
+8e674d0fbcb854902b1afb56bf4337b3,merchant,,account_123,2024-06-03,44.4,completed,balance,Petco,2025-10-25T18:50:19.311039,Petco,kids_pets
+9fd7390a537ad63fe82c4e115375de30,merchant,,account_123,2024-06-03,2.99,completed,balance,Zara,2025-10-25T18:50:19.311039,Zara,shopping_pos
+42a0a845dc818a14314d8e14e8b63ec2,merchant,,account_123,2024-06-03,6.73,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+521f36d8f42eaf282cd3d55f6bcf7c49,merchant,,account_123,2024-06-03,14.02,completed,balance,CVS,2025-10-25T18:50:19.311039,CVS,personal_care
+97168f6f71784df854466cd173d88bb8,merchant,,account_123,2024-06-03,338.29,completed,balance,Oxxo,2025-10-25T18:50:19.311039,Oxxo,misc_pos
+f6c85e502e349201235bc3379b919d97,merchant,,account_123,2024-06-03,5.14,completed,balance,Sephora,2025-10-25T18:50:19.311039,Sephora,personal_care
+f5b0df839bc35e6df8be3fab9aaa7ed3,merchant,,account_123,2024-06-04,60.94,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+f4dca0609b1c5189b4a56baf8a288345,merchant,,account_123,2024-06-04,203.98,completed,balance,Oxxo,2025-10-25T18:50:19.311039,Oxxo,misc_pos
+b93fb3ab42b7828df247e6c64bf16fab,merchant,,account_123,2024-06-04,24.04,completed,balance,Peloton,2025-10-25T18:50:19.311039,Peloton,health_fitness
+6afd9d050b2b9c2003ab5b220cfc65f5,merchant,,account_123,2024-06-04,17.1,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.311039,24 Hour Fitness,health_fitness
+cd9fcd27622f2d918b2bcef9e4b36222,merchant,,account_123,2024-06-04,7.88,completed,balance,Home Depot,2025-10-25T18:50:19.311039,Home Depot,home
+7d9f8c2ff6e641ed02130f7d2b30d735,merchant,,account_123,2024-06-04,1.37,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+375eddb8e96e3724d68479260df698e9,merchant,,account_123,2024-06-05,60.11,completed,balance,Circle K,2025-10-25T18:50:19.311039,Circle K,gas_transport
+69f563dfd17a64c5543ae2a80130333e,merchant,,account_123,2024-06-05,58.68,completed,balance,ExxonMobil,2025-10-25T18:50:19.311039,ExxonMobil,gas_transport
+1b1276828467c6e443a0377379ccb589,merchant,,account_123,2024-06-05,2.97,completed,balance,Zara,2025-10-25T18:50:19.311039,Zara,shopping_pos
+76f4a6d6ae5bcaf52a144df8e12d9510,merchant,,account_123,2024-06-06,61.0,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+a2d2c8040676695abbc386897637874a,merchant,,account_123,2024-06-06,85.97,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+fa09a86cd28d2bd298a5d7a2634419dc,merchant,,account_123,2024-06-06,1.04,completed,balance,Disney+,2025-10-25T18:50:19.311039,Disney+,entertainment
+17a23e6542644747774e3433895b0480,merchant,,account_123,2024-06-06,39.78,completed,balance,Subway,2025-10-25T18:50:19.311039,Subway,food_dining
+16298e2d676543551c1c8188fb027fd3,merchant,,account_123,2024-06-06,48.31,completed,balance,Ulta Beauty,2025-10-25T18:50:19.311039,Ulta Beauty,personal_care
+ca71a273fbbeb68f368b31b6a519782b,merchant,,account_123,2024-06-06,23.25,completed,balance,AMC Theatres,2025-10-25T18:50:19.311039,AMC Theatres,entertainment
+f6701033b06222d041611439e24694d6,merchant,,account_123,2024-06-06,2.17,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,shopping_pos
+365a2d7019f6903432f82bc176a9d16b,merchant,,account_123,2024-06-06,6.37,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+d8af1c55ee0a66d32da2f3de9024ebcc,merchant,,account_123,2024-06-07,33.22,completed,balance,Instacart,2025-10-25T18:50:19.311039,Instacart,grocery_net
+47709c650770a2c5ab1dfc79a2333939,merchant,,account_123,2024-06-07,97.11,completed,balance,HEB,2025-10-25T18:50:19.311039,HEB,grocery_pos
+bfb87e0288f02355dfabf7b67c9b5abc,merchant,,account_123,2024-06-07,88.87,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+0b837695ceaa82351dcc8cc9f31e1761,merchant,,account_123,2024-06-07,35.48,completed,balance,IKEA,2025-10-25T18:50:19.311039,IKEA,home
+a0d12e2d1e52e34b01ea788a3864b09d,merchant,,account_123,2024-06-07,20.67,completed,balance,Walgreens,2025-10-25T18:50:19.311039,Walgreens,personal_care
+e65874f8a25a65c31b7252abdf351d54,merchant,,account_123,2024-06-08,178.26,completed,balance,Amazon,2025-10-25T18:50:19.311039,Amazon,misc_net
+b7ec7e53096b35067195adca86b876ce,merchant,,account_123,2024-06-08,51.74,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+040f8c01909bee64b6929b4629683663,merchant,,account_123,2024-06-08,60.61,completed,balance,Chevron,2025-10-25T18:50:19.311039,Chevron,gas_transport
+026808ca9df59a8d3ec681aea209ee93,merchant,,account_123,2024-06-08,50.0,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+78fd407c6e381b5ef4124d4840cc0ee6,merchant,,account_123,2024-06-08,128.81,completed,balance,Costco,2025-10-25T18:50:19.311039,Costco,grocery_pos
+1ed28a4638b762dd954a3fdee4df18ab,merchant,,account_123,2024-06-08,49.52,completed,balance,BP,2025-10-25T18:50:19.311039,BP,gas_transport
+15847ef0934ef3828143ff3fd36fcb12,merchant,,account_123,2024-06-08,87.58,completed,balance,Shell,2025-10-25T18:50:19.311039,Shell,gas_transport
+fe753522da32cb7b76265032b7826072,merchant,,account_123,2024-06-08,96.28,completed,balance,Peloton,2025-10-25T18:50:19.621012,Peloton,health_fitness
+758dbbdbe1f6216ca4309226198aed6e,merchant,,account_123,2024-06-08,17.56,completed,balance,Home Depot,2025-10-25T18:50:19.621012,Home Depot,home
+7f445df93f08ba570349f47e195fbf68,merchant,,account_123,2024-06-08,2.76,completed,balance,H&M,2025-10-25T18:50:19.621012,H&M,shopping_pos
+87e2d5a2be6d8e7673fd25a0b17a2360,merchant,,account_123,2024-06-09,53.52,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+aa6bf22fed4fad10d276481550a1e4ce,merchant,,account_123,2024-06-09,90.07,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+42dcde6f2917bb3046ed19d9381b53e2,merchant,,account_123,2024-06-09,31.66,completed,balance,Wayfair,2025-10-25T18:50:19.621012,Wayfair,home
+9f21275dc0379c36a83096573b703fc2,merchant,,account_123,2024-06-09,123.15,completed,balance,Gymshark,2025-10-25T18:50:19.621012,Gymshark,health_fitness
+1b454be310a806a22f3eaaa1e0fc7665,merchant,,account_123,2024-06-09,33.02,completed,balance,Home Depot,2025-10-25T18:50:19.621012,Home Depot,home
+bd457ca091305632bf23cd2409341f03,merchant,,account_123,2024-06-09,2.58,completed,balance,Subway,2025-10-25T18:50:19.621012,Subway,food_dining
+9b292eb15d0969e7e7ee7bcebb6ed3d1,merchant,,account_123,2024-06-09,15.03,completed,balance,Peloton,2025-10-25T18:50:19.621012,Peloton,health_fitness
+e5f48aac9221e96e489381142c7c4223,merchant,,account_123,2024-06-09,17.51,completed,balance,Chipotle,2025-10-25T18:50:19.621012,Chipotle,food_dining
+8fb8f845b5fb76f03baab318d9aa4a2d,merchant,,account_123,2024-06-10,101.87,completed,balance,Sam's Club,2025-10-25T18:50:19.621012,Sam's Club,grocery_pos
+f31022b7d91a24e095e791ac6feb3580,merchant,,account_123,2024-06-10,80.82,completed,balance,ExxonMobil,2025-10-25T18:50:19.621012,ExxonMobil,gas_transport
+d6f7ee7965722747418de41d844ae905,merchant,,account_123,2024-06-10,5.73,completed,balance,eBay,2025-10-25T18:50:19.621012,eBay,misc_net
+657be49acdba2ecb480d7ed5763a72ce,merchant,,account_123,2024-06-10,58.45,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+a317bcce5bfaceed93d63926324eb930,merchant,,account_123,2024-06-10,9.01,completed,balance,Amazon,2025-10-25T18:50:19.621012,Amazon,travel
+ce85b379b3cc536a32427fa6e2405cde,merchant,,account_123,2024-06-10,61.52,completed,balance,CVS,2025-10-25T18:50:19.621012,CVS,personal_care
+f7bb9b905a602a140e5fa90a73bd50d2,merchant,,account_123,2024-06-11,244.54,completed,balance,Amazon,2025-10-25T18:50:19.621012,Amazon,misc_net
+cf0022ebf5317ee2ddf2e686b4c1d53a,merchant,,account_123,2024-06-11,48.45,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+5fe87004e30d90f5e8967305558e4b0e,merchant,,account_123,2024-06-11,69.47,completed,balance,Peloton,2025-10-25T18:50:19.621012,Peloton,health_fitness
+df21accfc78387c2e813849f8c81c13c,merchant,,account_123,2024-06-11,12.88,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+2ff9a45183ad6d218f74e4b17b786f51,merchant,,account_123,2024-06-12,63.84,completed,balance,Amazon Fresh,2025-10-25T18:50:19.621012,Amazon Fresh,grocery_net
+3756512033e92c81e5db5fd5348be603,merchant,,account_123,2024-06-12,101.96,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+87c28821178b100dddc7b7b2a48d6571,merchant,,account_123,2024-06-12,1.13,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,travel
+863f43ff76cdc653382255d4d96d20bb,merchant,,account_123,2024-06-12,5.4,completed,balance,Chipotle,2025-10-25T18:50:19.621012,Chipotle,food_dining
+4a693c5941da8c62be9a0dac30785ebb,merchant,,account_123,2024-06-12,10.93,completed,balance,Spotify,2025-10-25T18:50:19.621012,Spotify,entertainment
+043b2ecc43b545983eaec6b2c3a707e6,merchant,,account_123,2024-06-12,275.07,completed,balance,Apple Store,2025-10-25T18:50:19.621012,Apple Store,shopping_pos
+d3f2358da8bb1927bf6978ccb60b5a59,merchant,,account_123,2024-06-12,1.91,completed,balance,LEGO Store,2025-10-25T18:50:19.621012,LEGO Store,kids_pets
+b28e4605d840b0cc6bdd684d606386b5,merchant,,account_123,2024-06-12,85.62,completed,balance,KFC,2025-10-25T18:50:19.621012,KFC,food_dining
+8c29a8854b1237c8be8a9c92fa3c27ae,merchant,,account_123,2024-06-12,44.73,completed,balance,LEGO Store,2025-10-25T18:50:19.621012,LEGO Store,kids_pets
+58f3894cf289ac13140d7544348aae18,merchant,,account_123,2024-06-12,3.71,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+1a82429d4e0649fddbab1720f3b2c0e5,merchant,,account_123,2024-06-13,91.67,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+384b3c7c0b9ab23796496ab4a454d8f9,merchant,,account_123,2024-06-13,8.55,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+8b0c262debd1249551cc126d453257fd,merchant,,account_123,2024-06-13,29.63,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+c89615cf979bc24dbe3016e6583c920c,merchant,,account_123,2024-06-13,56.75,completed,balance,Zara,2025-10-25T18:50:19.621012,Zara,shopping_pos
+9b1cb01da1834f1544cb63d9af3ed130,merchant,,account_123,2024-06-14,63.35,completed,balance,ExxonMobil,2025-10-25T18:50:19.621012,ExxonMobil,gas_transport
+e20f5eced9c95804a958a7082d2d8d53,merchant,,account_123,2024-06-14,60.21,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+e195c991639caeaae085a29d363f4424,merchant,,account_123,2024-06-14,26.8,completed,balance,Starbucks,2025-10-25T18:50:19.621012,Starbucks,food_dining
+1697f601fd2d1de74ba6aed0123dc61e,merchant,,account_123,2024-06-14,6.42,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,misc_pos
+e925ef676dde2df9a74594a8d4357fad,merchant,,account_123,2024-06-14,16.87,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.621012,24 Hour Fitness,health_fitness
+81e6b13f27cba186b68cb7ba5ac360bd,merchant,,account_123,2024-06-15,47.15,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+681c5b799bf61fdd56faeeed4e4320db,merchant,,account_123,2024-06-15,75.8,completed,balance,HBO Max,2025-10-25T18:50:19.621012,HBO Max,entertainment
+b918a1c60af64b65d7250fb4aa973428,merchant,,account_123,2024-06-15,22.06,completed,balance,Subway,2025-10-25T18:50:19.621012,Subway,food_dining
+90c4d17e97d36d18a225079ff0193b40,merchant,,account_123,2024-06-16,77.44,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,grocery_pos
+79d3e1badac587231e34bdc089206222,merchant,,account_123,2024-06-16,101.88,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,grocery_pos
+e80c0e58815eaaf2d5441acc135dffc3,merchant,,account_123,2024-06-16,1.62,completed,balance,Etsy,2025-10-25T18:50:19.621012,Etsy,misc_net
+3d20fa8e882c547384478d2966cfdb1a,merchant,,account_123,2024-06-16,68.05,completed,balance,Walgreens,2025-10-25T18:50:19.621012,Walgreens,personal_care
+97a59acaaa26ca66f98a9428d39408fe,merchant,,account_123,2024-06-16,23.17,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+3fc9f04038efd51ded5e2b55228fb35b,merchant,,account_123,2024-06-16,1.54,completed,balance,Starbucks,2025-10-25T18:50:19.621012,Starbucks,food_dining
+a3d89d467fbfad72442672cc8ad593b2,merchant,,account_123,2024-06-16,21.89,completed,balance,Lowe’s,2025-10-25T18:50:19.621012,Lowe’s,home
+67aa3b4dbe38944e7c00b89510c8607a,merchant,,account_123,2024-06-16,57.33,completed,balance,HBO Max,2025-10-25T18:50:19.621012,HBO Max,entertainment
+68b965b410a3ee257cb2772e197e6ddf,merchant,,account_123,2024-06-16,145.33,completed,balance,Disney+,2025-10-25T18:50:19.621012,Disney+,entertainment
+e2d3b2c167e96ba4d6c59eb2ca1ae170,merchant,,account_123,2024-06-16,72.45,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,misc_pos
+5d3fa341a6d3a02968921be585b29ddf,merchant,,account_123,2024-06-16,5.08,completed,balance,Oxxo,2025-10-25T18:50:19.621012,Oxxo,misc_pos
+493d22b111223fac495948490c27bf40,merchant,,account_123,2024-06-16,1.11,completed,balance,KFC,2025-10-25T18:50:19.621012,KFC,food_dining
+5fb187e958334aceb47d11c9b4d96413,merchant,,account_123,2024-06-17,36.24,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+6a233a60e6a38c144f4f33dac52f311e,merchant,,account_123,2024-06-17,7.32,completed,balance,Etsy,2025-10-25T18:50:19.621012,Etsy,misc_net
+2c4490823042e6e52a9eafd97042b67c,merchant,,account_123,2024-06-17,100.59,completed,balance,Sam's Club,2025-10-25T18:50:19.621012,Sam's Club,grocery_pos
+fbee7844f5fdb360d7ab128bff752b6c,merchant,,account_123,2024-06-17,14.37,completed,balance,Peloton,2025-10-25T18:50:19.621012,Peloton,health_fitness
+bbe294090fa8c56299ff92b1ec867aa2,merchant,,account_123,2024-06-17,4.45,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+a7993456dea40c17f6e4d7b61098c983,merchant,,account_123,2024-06-17,4.2,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+0d1df8ef893ff1dc6e0bceeba394e8ed,merchant,,account_123,2024-06-17,1.06,completed,balance,AMC Theatres,2025-10-25T18:50:19.621012,AMC Theatres,entertainment
+72b5624f4297b7e2a7787fac16eefde0,merchant,,account_123,2024-06-18,2.77,completed,balance,Amazon,2025-10-25T18:50:19.621012,Amazon,misc_net
+956d47bb86c6ffd98bfd6040489cb7a1,merchant,,account_123,2024-06-18,83.08,completed,balance,PetSmart,2025-10-25T18:50:19.621012,PetSmart,kids_pets
+63f1e459496dd2d229c22fbc6df3c644,merchant,,account_123,2024-06-18,4.09,completed,balance,Zara,2025-10-25T18:50:19.621012,Zara,shopping_pos
+1faa25772c05f53d0bdae6c179e01acd,merchant,,account_123,2024-06-19,22.62,completed,balance,Spotify,2025-10-25T18:50:19.621012,Spotify,entertainment
+d59d0d16155f5d5adcc73aa0bdafa7ad,merchant,,account_123,2024-06-19,2.07,completed,balance,Starbucks,2025-10-25T18:50:19.621012,Starbucks,food_dining
+905b795d4f12ea0dcbfcb61ac7f82114,merchant,,account_123,2024-06-19,9.53,completed,balance,Wayfair,2025-10-25T18:50:19.621012,Wayfair,home
+3a3c37dd8860d784c3fb5a1ce2e89aa5,merchant,,account_123,2024-06-20,109.01,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+2c98072fe9378739e11e0840ba5b6d0b,merchant,,account_123,2024-06-20,50.3,completed,balance,LEGO Store,2025-10-25T18:50:19.621012,LEGO Store,kids_pets
+aba3e6763d700038379a4c1c1f9079ce,merchant,,account_123,2024-06-20,4.12,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,misc_pos
+5926d701dbdcc38cceab54f4241c068e,merchant,,account_123,2024-06-20,92.74,completed,balance,Sephora,2025-10-25T18:50:19.621012,Sephora,personal_care
+144801e472613ba04a456baae65e7244,merchant,,account_123,2024-06-20,11.98,completed,balance,PetSmart,2025-10-25T18:50:19.621012,PetSmart,kids_pets
+8fc2c1e6e7e613530168e464d2d4076d,merchant,,account_123,2024-06-20,1.9,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,travel
+eca438b4f96719ce3e0813a1330a99e5,merchant,,account_123,2024-06-20,18.35,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+d522e4d07177c9b12d704d60798a172d,merchant,,account_123,2024-06-20,100.08,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+d41d8bc2c1345d3756386f70516fea12,merchant,,account_123,2024-06-21,76.87,completed,balance,BP,2025-10-25T18:50:19.621012,BP,gas_transport
+a33b19caeb7cb571fc52962bf53664be,merchant,,account_123,2024-06-21,3.0,completed,balance,Temu,2025-10-25T18:50:19.621012,Temu,shopping_net
+672370e8884dbbb7f20c0a4b875ff226,merchant,,account_123,2024-06-21,66.42,completed,balance,Petco,2025-10-25T18:50:19.621012,Petco,kids_pets
+15b18ffdf88dc346adbbfcdd774b302e,merchant,,account_123,2024-06-21,71.89,completed,balance,Lowe’s,2025-10-25T18:50:19.621012,Lowe’s,home
+dea8410f36387038627e8ca39cf35058,merchant,,account_123,2024-06-21,1.94,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,misc_pos
+276bf3c81fac5fbc42110c5e944d3de9,merchant,,account_123,2024-06-21,3.74,completed,balance,Apple Store,2025-10-25T18:50:19.621012,Apple Store,shopping_pos
+a50ff7deae9228990a7fddad2ae01040,merchant,,account_123,2024-06-22,875.26,completed,balance,Ebay,2025-10-25T18:50:19.621012,Ebay,shopping_net
+1fe7977b23456398e978b1315f85276c,merchant,,account_123,2024-06-22,22.37,completed,balance,Sephora,2025-10-25T18:50:19.621012,Sephora,personal_care
+0dfb1de99e5aaf56a43763094bd0a049,merchant,,account_123,2024-06-22,995.42,completed,balance,Zara,2025-10-25T18:50:19.621012,Zara,shopping_pos
+cc0d00ce752b90405fe40a01b1d7e3f4,merchant,,account_123,2024-06-22,20.52,completed,balance,Peloton,2025-10-25T18:50:19.621012,Peloton,health_fitness
+9344f63ea38b9c8e7808d5952c45f2bb,merchant,,account_123,2024-06-22,902.67,completed,balance,Apple Store,2025-10-25T18:50:19.621012,Apple Store,shopping_pos
+553facf8fb79ea2785c9637fd94d9b41,merchant,,account_123,2024-06-22,9.22,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,travel
+eff86bfd14607593134d53f62730c958,merchant,,account_123,2024-06-23,671.97,completed,balance,Oxxo,2025-10-25T18:50:19.621012,Oxxo,misc_pos
+f2675ba66e9efb85d76c3563a7139152,merchant,,account_123,2024-06-23,658.74,completed,balance,H&M,2025-10-25T18:50:19.621012,H&M,shopping_pos
+d230afb66a672371b88594d7ae0e6578,merchant,,account_123,2024-06-23,10.91,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,travel
+9c75a6c6d63319cd01a65bbbb91458f0,merchant,,account_123,2024-06-23,19.03,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+2e7983ff9f19b0eb6021eacd799e4ca9,merchant,,account_123,2024-06-24,82.1,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+38ae1da99710f78fb9b85880c1cd2cb4,merchant,,account_123,2024-06-24,88.69,completed,balance,Costco,2025-10-25T18:50:19.621012,Costco,grocery_pos
+80e9cb85e5e1c0411c65b994153b52a5,merchant,,account_123,2024-06-24,52.04,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+e72b2dbbdc6f6d75ba81116c04aa7c6c,merchant,,account_123,2024-06-24,2.0,completed,balance,Oxxo,2025-10-25T18:50:19.621012,Oxxo,misc_pos
+60a03729ba649b5c0c0010253dfea543,merchant,,account_123,2024-06-24,21.75,completed,balance,Lowe’s,2025-10-25T18:50:19.621012,Lowe’s,home
+31282741fbd16b646148423f12dc6c2f,merchant,,account_123,2024-06-24,18.92,completed,balance,eBay,2025-10-25T18:50:19.621012,eBay,misc_net
+f547035d9a6293032e2659d202bc79f9,merchant,,account_123,2024-06-25,2.54,completed,balance,McDonald's,2025-10-25T18:50:19.621012,McDonald's,food_dining
+1283cc76976646e469a147b05a5f25f0,merchant,,account_123,2024-06-25,5.46,completed,balance,H&M,2025-10-25T18:50:19.621012,H&M,shopping_pos
+5f9a9312afa9322b92b0b1e8491f7cd7,merchant,,account_123,2024-06-26,69.24,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+93acf70860c2b6e11065a3008d769f61,merchant,,account_123,2024-06-26,76.19,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+4989dd199612bfae08fc19842d3856b6,merchant,,account_123,2024-06-26,124.07,completed,balance,Costco,2025-10-25T18:50:19.621012,Costco,grocery_pos
+ad4afa190684686d60821c646b87fe06,merchant,,account_123,2024-06-26,18.46,completed,balance,Build-A-Bear,2025-10-25T18:50:19.621012,Build-A-Bear,kids_pets
+f20365eeda57770ce63f50390fce0d1d,merchant,,account_123,2024-06-26,2.31,completed,balance,Gymshark,2025-10-25T18:50:19.621012,Gymshark,health_fitness
+962e33678165ce8fa545306605ced750,merchant,,account_123,2024-06-26,5.43,completed,balance,Apple Store,2025-10-25T18:50:19.621012,Apple Store,shopping_pos
+3bd8e73f605f38f388b3aeaf1f8decc6,merchant,,account_123,2024-06-26,57.5,completed,balance,Netflix,2025-10-25T18:50:19.621012,Netflix,entertainment
+902a6dbd9c70ea94096f5c7b97b356b5,merchant,,account_123,2024-06-26,2.24,completed,balance,Chipotle,2025-10-25T18:50:19.621012,Chipotle,food_dining
+24065acd2ade7edb9c7647b94be16083,merchant,,account_123,2024-06-26,76.51,completed,balance,AMC Theatres,2025-10-25T18:50:19.621012,AMC Theatres,entertainment
+8559915ab3b9cf1d9ef7bad85caa4ba1,merchant,,account_123,2024-06-26,34.82,completed,balance,Wayfair,2025-10-25T18:50:19.621012,Wayfair,home
+07b59197450c69ae1ecdc10c274cab4e,merchant,,account_123,2024-06-26,10.19,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,misc_pos
+70d67671dd836aafda52979a0cdf9973,merchant,,account_123,2024-06-27,39.52,completed,balance,ExxonMobil,2025-10-25T18:50:19.621012,ExxonMobil,gas_transport
+6320e1f731fad5b813c266d2b9d3c828,merchant,,account_123,2024-06-27,86.84,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,grocery_pos
+b8e7b9689311fab1fea9756600e2a9ef,merchant,,account_123,2024-06-27,9.17,completed,balance,Nike.com,2025-10-25T18:50:19.621012,Nike.com,shopping_net
+88c60ac349fe186a4c35c8dedc7a6d24,merchant,,account_123,2024-06-27,180.29,completed,balance,Wayfair,2025-10-25T18:50:19.621012,Wayfair,home
+860563f81cd068b5503f23cee6e2909c,merchant,,account_123,2024-06-27,109.0,completed,balance,Home Depot,2025-10-25T18:50:19.621012,Home Depot,home
+6bc59ee4df35c7385ac8629d999de68e,merchant,,account_123,2024-06-27,9.49,completed,balance,Planet Fitness,2025-10-25T18:50:19.621012,Planet Fitness,health_fitness
+a45b8dd402ae74fc42f55a6760a6eba4,merchant,,account_123,2024-06-27,5.19,completed,balance,Nike.com,2025-10-25T18:50:19.621012,Nike.com,shopping_net
+8b9cdc2d18aa7ed80c856cf42452f427,merchant,,account_123,2024-06-28,78.23,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+94871ba21936fc0bde16a766c3595ffd,merchant,,account_123,2024-06-28,35.3,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+3f232707adceb032702c53c7cbd5d4e6,merchant,,account_123,2024-06-28,24.19,completed,balance,Spotify,2025-10-25T18:50:19.621012,Spotify,entertainment
+64745007f921f127bf5ab484ee704c4c,merchant,,account_123,2024-06-28,66.37,completed,balance,Petco,2025-10-25T18:50:19.621012,Petco,kids_pets
+0077eea1945a059ac3eb736b37e3bd1e,merchant,,account_123,2024-06-29,83.55,completed,balance,Circle K,2025-10-25T18:50:19.621012,Circle K,gas_transport
+b1a98c2b91e55ee69f94d33e76da42ff,merchant,,account_123,2024-06-29,49.43,completed,balance,ExxonMobil,2025-10-25T18:50:19.621012,ExxonMobil,gas_transport
+03577b7e2a021a327a9f7f51485172d1,merchant,,account_123,2024-06-29,87.17,completed,balance,Etsy,2025-10-25T18:50:19.621012,Etsy,misc_net
+ee94d03afc3967b33497ab25437222bd,merchant,,account_123,2024-06-30,122.8,completed,balance,Target,2025-10-25T18:50:19.621012,Target,grocery_pos
+037d6e01b2b78c545248869e2929cadb,merchant,,account_123,2024-06-30,81.64,completed,balance,BP,2025-10-25T18:50:19.621012,BP,gas_transport
+aa3a86e8f56b1645ae4003a345d4d622,merchant,,account_123,2024-06-30,81.26,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+f76d465ce117c7cecefba0ac604701f6,merchant,,account_123,2024-06-30,50.84,completed,balance,AMC Theatres,2025-10-25T18:50:19.621012,AMC Theatres,entertainment
+23cfa789b42135fa787c021bdb8e8257,merchant,,account_123,2024-06-30,6.06,completed,balance,IKEA,2025-10-25T18:50:19.621012,IKEA,home
+809ef8410d268223273e2bbbe5f8dc36,merchant,,account_123,2024-06-30,1.24,completed,balance,Amazon,2025-10-25T18:50:19.621012,Amazon,shopping_net
+14542b5ab50c50d12f5ddb87eae032cf,merchant,,account_123,2024-06-30,11.05,completed,balance,KFC,2025-10-25T18:50:19.621012,KFC,food_dining
+81ba4922605948a5ea4a817d08cb4d37,merchant,,account_123,2024-07-01,49.76,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+ff99e02a532226413df388a1d2ffe4bc,merchant,,account_123,2024-07-01,20.9,completed,balance,24 Hour Fitness,2025-10-25T18:50:19.621012,24 Hour Fitness,health_fitness
+e34ae0ed74b03a3c14e4e830e1b91cd8,merchant,,account_123,2024-07-01,87.56,completed,balance,Lowe’s,2025-10-25T18:50:19.621012,Lowe’s,home
+fa48144aa2b15a3fef018e8eacca0125,merchant,,account_123,2024-07-01,107.93,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+ff424cb251e5823f441060cac606eb70,merchant,,account_123,2024-07-01,146.02,completed,balance,Home Depot,2025-10-25T18:50:19.621012,Home Depot,home
+6624c8380719d4f402fce61eda3cf400,merchant,,account_123,2024-07-01,49.54,completed,balance,HBO Max,2025-10-25T18:50:19.621012,HBO Max,entertainment
+37a932dee75ec1b99885cad86838d957,merchant,,account_123,2024-07-02,57.22,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+5a7f9accfb98fda93ac5c11702e98c21,merchant,,account_123,2024-07-02,11.52,completed,balance,LEGO Store,2025-10-25T18:50:19.621012,LEGO Store,kids_pets
+fbbe56412dd06dc5fcfa0f62563a6112,merchant,,account_123,2024-07-02,15.67,completed,balance,Spotify,2025-10-25T18:50:19.621012,Spotify,entertainment
+59daf09c19eeca1cd596290bdc0acec5,merchant,,account_123,2024-07-02,8.26,completed,balance,Wayfair,2025-10-25T18:50:19.621012,Wayfair,home
+052c736a529110ac9bddef039effdb4c,merchant,,account_123,2024-07-03,65.54,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+670113453ffddcdea30901a502a2b627,merchant,,account_123,2024-07-03,51.85,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+2f9e73adce7977eb1d66667750b78208,merchant,,account_123,2024-07-03,39.97,completed,balance,Instacart,2025-10-25T18:50:19.621012,Instacart,grocery_net
+4a35428fd5a9eb6f0ef73320d85c6811,merchant,,account_123,2024-07-03,1.41,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+e78026438afb9f58287fac4c80f79faf,merchant,,account_123,2024-07-03,1.94,completed,balance,Petco,2025-10-25T18:50:19.621012,Petco,kids_pets
+5241f3a077355e3055e839e40eda3833,merchant,,account_123,2024-07-04,15.79,completed,balance,Etsy,2025-10-25T18:50:19.621012,Etsy,misc_net
+de4ff912b09b6e107cd5907f863defbc,merchant,,account_123,2024-07-04,100.97,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+45b7e2f5ff7c5276c3254c63028e767c,merchant,,account_123,2024-07-04,2.24,completed,balance,Amazon,2025-10-25T18:50:19.621012,Amazon,misc_net
+41d6254729e51e221f47dc7c41289174,merchant,,account_123,2024-07-04,6.86,completed,balance,AMC Theatres,2025-10-25T18:50:19.621012,AMC Theatres,entertainment
+84ae43af588b3d67a2b617d087a6d00b,merchant,,account_123,2024-07-04,4.9,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+8566d0ec3cbd9b484d271edca1059caf,merchant,,account_123,2024-07-04,19.94,completed,balance,Planet Fitness,2025-10-25T18:50:19.621012,Planet Fitness,health_fitness
+56b5be390e857e6a095e52e7e7826d0a,merchant,,account_123,2024-07-04,8.35,completed,balance,Dollar Tree,2025-10-25T18:50:19.621012,Dollar Tree,misc_pos
+c27afb978565133edc78a9fe7c1e7490,merchant,,account_123,2024-07-04,8.24,completed,balance,Temu,2025-10-25T18:50:19.621012,Temu,shopping_net
+dbc90d690be0fff4468ba7b38df2982d,merchant,,account_123,2024-07-05,76.47,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,grocery_pos
+d9ddd620796daed670539e56ad6fdd48,merchant,,account_123,2024-07-05,46.6,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+79d49706659a55207e87921ef1654e70,merchant,,account_123,2024-07-05,100.34,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+3724df39072a900930fa097a82a1fef8,merchant,,account_123,2024-07-05,25.69,completed,balance,PetSmart,2025-10-25T18:50:19.621012,PetSmart,kids_pets
+b58c9d068a7827d9177859e6fa778e06,merchant,,account_123,2024-07-05,133.09,completed,balance,IKEA,2025-10-25T18:50:19.621012,IKEA,home
+50f0cb4813dd78e54cebf4fa9b785636,merchant,,account_123,2024-07-05,9.91,completed,balance,Temu,2025-10-25T18:50:19.621012,Temu,shopping_net
+3b01dba27d057e3cc61c8e292b7df801,merchant,,account_123,2024-07-05,6.21,completed,balance,Subway,2025-10-25T18:50:19.621012,Subway,food_dining
+0e4894486c1821aaab73ae01ff41ebf7,merchant,,account_123,2024-07-06,41.2,completed,balance,BP,2025-10-25T18:50:19.621012,BP,gas_transport
+7c4ae4f25747910ab4bcaf505169f252,merchant,,account_123,2024-07-06,40.3,completed,balance,Circle K,2025-10-25T18:50:19.621012,Circle K,gas_transport
+2ea1dd1bf456b30f0a2449b3c9e7580e,merchant,,account_123,2024-07-06,120.84,completed,balance,Sam's Club,2025-10-25T18:50:19.621012,Sam's Club,grocery_pos
+d7b1b210bf60f256110fba6523e70273,merchant,,account_123,2024-07-06,28.14,completed,balance,Disney+,2025-10-25T18:50:19.621012,Disney+,entertainment
+9db5889e59e5f3c1b5f742bdd32550b4,merchant,,account_123,2024-07-06,2.66,completed,balance,CVS,2025-10-25T18:50:19.621012,CVS,personal_care
+2de03e343716c5887af5e72f603ef061,merchant,,account_123,2024-07-06,53.98,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+bb3c031448d9f47b38dc5b848bc9829f,merchant,,account_123,2024-07-07,63.83,completed,balance,Circle K,2025-10-25T18:50:19.621012,Circle K,gas_transport
+6550ffbf09c50fb9d092684971f7e5d4,merchant,,account_123,2024-07-07,78.19,completed,balance,Shell,2025-10-25T18:50:19.621012,Shell,gas_transport
+0c24bd7f800e7a14fc4ef33e74ef9be0,merchant,,account_123,2024-07-07,55.06,completed,balance,ExxonMobil,2025-10-25T18:50:19.621012,ExxonMobil,gas_transport
+4d783deb704e676a7a268183d371fe5a,merchant,,account_123,2024-07-07,103.05,completed,balance,HEB,2025-10-25T18:50:19.621012,HEB,grocery_pos
+c58fcd9e4911aeedb0e1b281b8273577,merchant,,account_123,2024-07-07,68.09,completed,balance,Circle K,2025-10-25T18:50:19.621012,Circle K,gas_transport
+7ff290fdee58a0480d971103badae12d,merchant,,account_123,2024-07-07,82.55,completed,balance,Costco,2025-10-25T18:50:19.621012,Costco,grocery_pos
+cc3593285261258462585ae0f1d81e5a,merchant,,account_123,2024-07-07,39.57,completed,balance,Amazon Fresh,2025-10-25T18:50:19.621012,Amazon Fresh,grocery_net
+825338d72cbdff4da2e22e56cd546aab,merchant,,account_123,2024-07-07,55.39,completed,balance,Circle K,2025-10-25T18:50:19.621012,Circle K,gas_transport
+faf79b43230bb5282e9b138246ddca8e,merchant,,account_123,2024-07-07,14.33,completed,balance,Temu,2025-10-25T18:50:19.621012,Temu,shopping_net
+9834b13194166e8cae3bc25efaefc19a,merchant,,account_123,2024-07-07,94.38,completed,balance,Netflix,2025-10-25T18:50:19.621012,Netflix,entertainment
+686a15e71d5b6f1998b657d7c93e677d,merchant,,account_123,2024-07-07,28.48,completed,balance,PetSmart,2025-10-25T18:50:19.621012,PetSmart,kids_pets
+9336b3216d8415c427f401f2262e9a1c,merchant,,account_123,2024-07-07,187.62,completed,balance,Subway,2025-10-25T18:50:19.621012,Subway,food_dining
+3a65b73da9065aaefcacbc3521c53646,merchant,,account_123,2024-07-07,54.55,completed,balance,Disney+,2025-10-25T18:50:19.621012,Disney+,entertainment
+656ff5ff11229d70b2ea12d8153be7fb,merchant,,account_123,2024-07-07,50.67,completed,balance,Nike.com,2025-10-25T18:50:19.621012,Nike.com,shopping_net
+afb176f1ccd2aefe4725efc682344407,merchant,,account_123,2024-07-07,199.23,completed,balance,Dollar Tree,2025-10-25T18:50:19.621012,Dollar Tree,misc_pos
+aaa3e6134a51c54a1ab80a7ce12757cf,merchant,,account_123,2024-07-08,8.77,completed,balance,eBay,2025-10-25T18:50:19.621012,eBay,misc_net
+d073292015b62e681fb720411ccea491,merchant,,account_123,2024-07-08,78.24,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+269e002ebae714f98fc38478c328851b,merchant,,account_123,2024-07-08,43.52,completed,balance,eBay,2025-10-25T18:50:19.621012,eBay,misc_net
+307104d6d55824753a6c9944d8fc0217,merchant,,account_123,2024-07-08,70.59,completed,balance,Chevron,2025-10-25T18:50:19.621012,Chevron,gas_transport
+272900ba3ae25e4602d179749b813daf,merchant,,account_123,2024-07-08,93.48,completed,balance,Walmart,2025-10-25T18:50:19.621012,Walmart,grocery_pos
+858cb1fe668c0ef7c7e3cc38a55312f5,merchant,,account_123,2024-07-08,3.31,completed,balance,Ulta Beauty,2025-10-25T18:50:19.621012,Ulta Beauty,personal_care
+4be0b6576b35d7164a104219cb9a5978,merchant,,account_123,2024-07-08,1751.08,completed,balance,H&M,2025-10-25T18:50:19.621012,H&M,shopping_pos
+8bffbcb8814b1e51a2b7c748e9a5e938,merchant,,account_123,2024-07-08,43.11,completed,balance,7-Eleven,2025-10-25T18:50:19.621012,7-Eleven,misc_pos
+2e995eaf073efcefcece6eb0ff85154b,merchant,,account_123,2024-07-08,55.13,completed,balance,Netflix,2025-10-25T18:50:19.621012,Netflix,entertainment
+1cf2ce4963d9da803ae11d2b70270377,merchant,,account_123,2024-07-08,82.93,completed,balance,Dollar Tree,2025-10-25T18:50:19.621012,Dollar Tree,misc_pos
+43b9491cf93463990c3b34d83dcd5f73,merchant,,account_123,2024-07-08,4.99,completed,balance,Best Buy,2025-10-25T18:50:19.621012,Best Buy,shopping_pos
+d12bc4635ea0dedb916854c72865c40d,merchant,,account_123,2024-07-08,20.06,completed,balance,Planet Fitness,2025-10-25T18:50:19.621012,Planet Fitness,health_fitness
+429f6421d5bec1a4572200adbbd63e4b,merchant,,account_123,2024-07-09,23.77,completed,balance,Whole Foods Online,2025-10-25T18:50:19.621012,Whole Foods Online,grocery_net
+6ddafa5a952f332889ae34fc9fc71f0c,merchant,,account_123,2024-07-09,98.9,completed,balance,Target,2025-10-25T18:50:19.621012,Target,grocery_pos
+61395f252e1690ce3d2cb27b5d8c6a3d,merchant,,account_123,2024-07-09,66.54,completed,balance,IKEA,2025-10-25T18:50:19.621012,IKEA,home
+f736599cf6ca011c203f4b0e8cfc949e,merchant,,account_123,2024-07-09,126.8,completed,balance,Lowe’s,2025-10-25T18:50:19.621012,Lowe’s,home
+16c5b47c1974d5022fc2a159876fc3c2,merchant,,account_123,2024-07-09,332.94,completed,balance,Zara,2025-10-25T18:50:19.621012,Zara,shopping_pos
