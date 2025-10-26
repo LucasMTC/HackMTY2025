@@ -83,16 +83,6 @@ def create_account(customer_id):
     else:
         print(f"Error: {response.status_code}\n {response.json()}")
 
-def get_transactions(customer_id):
-    response = requests.get(f"{SUPABASE_URL}/rest/v1/purchase?{customer_id}", headers=headers)
-    if response.status_code == 200:
-        with open("data.csv", "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
-            writer.writeheader()
-            writer.writerows(response.json())
-    else:
-        print(f"Error: {response.status_code}\n {response.json()}")
-
 app = FastAPI()
 
 @app.get("/users/{user_id}")
@@ -105,6 +95,17 @@ def get_user_accounts(user_id: str):
         if acc["customer_id"] == user_id:
             accounts[user_id].append(acc)
     return accounts
+
+@app.get("/users/{customer_id}/purchases")
+def get_purchases(customer_id: str):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/purchase?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        with open("purchases.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
+            writer.writeheader()
+            writer.writerows(response.json())
+    else:
+        print(f"Error: {response.status_code}\n {response.json()}")
 
 @app.post("/users/{user_id}/goals")
 def create_goal(goal: Goal):
