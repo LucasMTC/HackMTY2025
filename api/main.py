@@ -76,16 +76,13 @@ app = FastAPI()
 def main():
     return {"Hello": "World"}
 
-@app.get("/users/{user_id}")
-def get_user_accounts(user_id: str):
-    accounts = {user_id:[]}
-    response = requests.get(f"{BASE_URL}/accounts?key={API_KEY}")
-    if response.status_code != 200:
-        raise HTTPException(status_code=response.status_code, detail=response.text)
-    for acc in response.json():
-        if acc["customer_id"] == user_id:
-            accounts[user_id].append(acc)
-    return accounts
+@app.get("/users/{customer_id}")
+def get_user_accounts(customer_id: str):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/accounts?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        return {"Error": f"{response.status_code} {response.text}"}
 
 @app.get("/users/{customer_id}/purchases")
 def get_purchases(customer_id: str):
@@ -105,7 +102,7 @@ def get_transactions(customer_id: str):
 
 @app.get("/users/{customer_id}/balance_history")
 def get_transactions(customer_id: str):
-    response = requests.get(f"{SUPABASE_URL}/rest/v1/transactions?{customer_id}", headers=headers)
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/balance_history?{customer_id}", headers=headers)
     if response.status_code == 200:
         return response.json()
     else:
