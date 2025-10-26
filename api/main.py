@@ -1,25 +1,12 @@
 import requests
 import csv
 import os
-import json
 import uuid
 
 from fastapi import FastAPI, HTTPException
 from dotenv import load_dotenv
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import xgboost as xgb
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import classification_report
 from pydantic import BaseModel, Field
-col_pal = sns.color_palette()
-plt.style.use("fivethirtyeight")
-
-
 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
@@ -85,6 +72,10 @@ def create_account(customer_id):
 
 app = FastAPI()
 
+@app.get("/")
+def main():
+    return {"Hello": "World"}
+
 @app.get("/users/{user_id}")
 def get_user_accounts(user_id: str):
     accounts = {user_id:[]}
@@ -100,37 +91,25 @@ def get_user_accounts(user_id: str):
 def get_purchases(customer_id: str):
     response = requests.get(f"{SUPABASE_URL}/rest/v1/purchase?{customer_id}", headers=headers)
     if response.status_code == 200:
-        with open("purchases.csv", "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
-            writer.writeheader()
-            writer.writerows(response.json())
         return response.json()
     else:
-        print(f"Error: {response.status_code}\n {response.json()}")
+        return {"Error": f"{response.status_code} {response.text}"}
 
 @app.get("/users/{customer_id}/transactions")
 def get_transactions(customer_id: str):
     response = requests.get(f"{SUPABASE_URL}/rest/v1/transactions?{customer_id}", headers=headers)
     if response.status_code == 200:
-        with open("transactions.csv", "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
-            writer.writeheader()
-            writer.writerows(response.json())
         return response.json()
     else:
-        print(f"Error: {response.status_code}\n {response.json()}")
+        return {"Error": f"{response.status_code} {response.text}"}
 
 @app.get("/users/{customer_id}/balance_history")
 def get_transactions(customer_id: str):
     response = requests.get(f"{SUPABASE_URL}/rest/v1/transactions?{customer_id}", headers=headers)
     if response.status_code == 200:
-        with open("balance_history.csv", "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
-            writer.writeheader()
-            writer.writerows(response.json())
         return response.json()
     else:
-        print(f"Error: {response.status_code}\n {response.json()}")
+        return {"Error": f"{response.status_code} {response.text}"}
 
 @app.post("/users/{user_id}/goals")
 def create_goal(goal: Goal):
