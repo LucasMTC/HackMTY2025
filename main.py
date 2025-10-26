@@ -104,6 +104,31 @@ def get_purchases(customer_id: str):
             writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
             writer.writeheader()
             writer.writerows(response.json())
+        return response.json()
+    else:
+        print(f"Error: {response.status_code}\n {response.json()}")
+
+@app.get("/users/{customer_id}/transactions")
+def get_transactions(customer_id: str):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/transactions?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        with open("transactions.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
+            writer.writeheader()
+            writer.writerows(response.json())
+        return response.json()
+    else:
+        print(f"Error: {response.status_code}\n {response.json()}")
+
+@app.get("/users/{customer_id}/balance_history")
+def get_transactions(customer_id: str):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/transactions?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        with open("balance_history.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
+            writer.writeheader()
+            writer.writerows(response.json())
+        return response.json()
     else:
         print(f"Error: {response.status_code}\n {response.json()}")
 
