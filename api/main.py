@@ -2,7 +2,9 @@ import requests
 import csv
 import os
 import uuid
+import pandas as pd
 
+from prophet import Prophet
 from fastapi import FastAPI, HTTPException
 from dotenv import load_dotenv
 
@@ -101,19 +103,59 @@ def get_transactions(customer_id: str):
         return {"Error": f"{response.status_code} {response.text}"}
 
 @app.get("/users/{customer_id}/balance_history")
-def get_transactions(customer_id: str):
+def get_balance_history(customer_id: str):
     response = requests.get(f"{SUPABASE_URL}/rest/v1/balance_history?{customer_id}", headers=headers)
     if response.status_code == 200:
+        with open("/Users/lucas/Workspace/Python/HackMTY2025/csv/balance_history.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=response.json()[0].keys())
+            writer.writeheader()
+            writer.writerows(response.json())
         return response.json()
     else:
         return {"Error": f"{response.status_code} {response.text}"}
 
-@app.post("/users/{user_id}/goals")
+@app.post("/users/{customer_id}/goals")
 def create_goal(goal: Goal):
     response = requests.post(f"{SUPABASE_URL}/rest/v1/goals?{goal.customer_id}", headers=headers, json=goal.model_dump())
     if response.status_code != 201:
         raise HTTPException(status_code=response.status_code, detail=response.text)
     return response.status_code
+
+@app.get("/users/{customer_id}/goals")
+def get_goals(customer_id: str):
+    response = requests.get(f"{SUPABASE_URL}/rest/v1/goals?{customer_id}", headers=headers)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        return {"Error": f"{response.status_code} {response.text}"}
+    
+@app.get("/users/{customer_id}/predictions")
+def get_prediction(customer_id: str):
+    balance_data = get_balance_history(customer_id)
+    df = pd.DataFrame(balance_data)
+
+    df['ds'] = pd.to_datetime(df['date'])
+    df["y"] = df["balance"]
+    df = df[['ds', 'y']]
+    df = df.sort_values('ds')
+
+    m = Prophet(
+        yearly_seasonality=False,
+        weekly_seasonality=True,
+        daily_seasonality=False,
+        changepoint_prior_scale=0.5
+    )
+    m.fit(df)
+
+    future = m.make_future_dataframe(periods=100)
+
+    forecast = m.predict(future)
+
+    result_df = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']]
+    
+    result_df.to_json("prediction.json", index=False)
+    
+    return result_df.to_json()
 
 if __name__ == "__main__":
     print("This app is running")
