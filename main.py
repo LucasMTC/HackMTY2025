@@ -113,38 +113,5 @@ def create_goal(goal: Goal):
         raise HTTPException(status_code=response.status_code, detail=response.text)
     return response.status_code
 
-def predition_model():
-    df = pd.read_csv("data.csv")
-
-    df['purchase_date'] = pd.to_datetime(df['purchase_date'])
-    df['purchase_month'] = df['purchase_date'].dt.month
-    df['purchase_day'] = df['purchase_date'].dt.day
-    df['purchase_dayofweek'] = df['purchase_date'].dt.dayofweek
-    df = df.drop(columns=['description'])
-
-    le = LabelEncoder()
-    df['category_encoded'] = le.fit_transform(df['category'])
-
-    features_to_drop = ['_id', 'merchant_id', 'payer_id', 'purchase_date', 'created_at', 'category']
-    X = df.drop(columns=features_to_drop)
-    y = df['category_encoded']
-
-    categorical_cols = ['type', 'status', 'medium', 'merchant_name']
-    X = pd.get_dummies(X, columns=categorical_cols, drop_first=True)
-    
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
-
-    model = xgb.XGBClassifier(objective='multi:softmax', num_class=len(le.classes_), use_label_encoder=False, eval_metric='mlogloss', n_estimators=100, random_state=42)
-    model.fit(X_train, y_train)
-
-    y_pred = model.predict(X_test)
-    report = classification_report(y_test, y_pred, target_names=le.classes_, output_dict=True)
-
-    print("--- XGBoost Classification Report for Category Prediction ---")
-    print(f"Accuracy: {report['accuracy']:.4f}")
-    print("Detailed Report (JSON format):", json.dumps(report, indent=2))
-    print("----------------------------------------------------------")
-
 if __name__ == "__main__":
     print("This app is running")
-    predition_model()
